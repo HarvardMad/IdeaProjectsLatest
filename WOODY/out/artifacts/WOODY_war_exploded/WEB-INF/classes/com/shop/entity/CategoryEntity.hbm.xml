@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.shop.entity.CategoryEntity" table="category" schema="public" catalog="Shop">
+        <id name="categoryid" column="categoryid"/>
+        <property name="description" column="description"/>
+        <one-to-one name="categoryByCategoryid" class="com.shop.entity.CategoryEntity"/>
+        <one-to-one name="categoryByCategoryid_0" class="com.shop.entity.CategoryEntity"/>
+        <set name="productsByCategoryid" inverse="true">
+            <key>
+                <column name="categoryid"/>
+            </key>
+            <one-to-many not-found="ignore" class="com.shop.entity.ProductEntity"/>
+        </set>
+    </class>
+</hibernate-mapping>

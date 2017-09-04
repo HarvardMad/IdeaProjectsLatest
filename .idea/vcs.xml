@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Interview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MSC_Project_Shop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-maps-utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fcuk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fcuk/MSC_Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fcuk/MSc_Project_Shop" vcs="Git" />
+  </component>
+</project>

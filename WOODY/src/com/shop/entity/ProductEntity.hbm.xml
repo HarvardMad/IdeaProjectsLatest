@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.shop.entity.ProductEntity" table="product" schema="public" catalog="Shop">
+        <id name="productid" column="productid"/>
+        <property name="itemcode" column="itemcode"/>
+        <property name="itemdescription" column="itemdescription"/>
+        <property name="unitprice" column="unitprice"/>
+        <property name="quantityinstock" column="quantityinstock"/>
+        <many-to-one name="categoryByCategoryid" class="com.shop.entity.CategoryEntity">
+            <column name="categoryid"/>
+        </many-to-one>
+        <one-to-one name="productByProductid" class="com.shop.entity.ProductEntity"/>
+        <one-to-one name="productByProductid_0" class="com.shop.entity.ProductEntity"/>
+        <set name="orderitemsByProductid" inverse="true">
+            <key>
+                <column name="productid"/>
+            </key>
+            <one-to-many not-found="ignore" class="com.shop.entity.OrderitemEntity"/>
+        </set>
+        <set name="productimagesByProductid" inverse="true">
+            <key>
+                <column name="productid"/>
+            </key>
+            <one-to-many not-found="ignore" class="com.shop.entity.ProductimageEntity"/>
+        </set>
+        <set name="stocksByProductid" inverse="true">
+            <key>
+                <column name="productid" not-null="true"/>
+            </key>
+            <one-to-many not-found="ignore" class="com.shop.entity.StockEntity"/>
+        </set>
+    </class>
+</hibernate-mapping>

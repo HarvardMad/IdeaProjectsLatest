@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:weightSum="1">
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Welcome to Woodys, Your online shop for Mazda MX5 parts"
+            android:layout_weight="0.06" android:layout_gravity="center_horizontal"
+            android:textColor="#ff68d7ff" android:background="#ff000000" android:textAlignment="center"/>
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="192dp"
+            android:text="Please Enter"
+            android:id="@+id/buttonOne" android:textColor="#ff68d7ff"/>
+</LinearLayout>
+

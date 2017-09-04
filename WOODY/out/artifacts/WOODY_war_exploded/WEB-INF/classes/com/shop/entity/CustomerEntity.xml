@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-mappings xmlns="http://java.sun.com/xml/ns/persistence/orm"
+        version="2.0">
+
+        <entity class="com.shop.entity.CustomerEntity">
+                <table name="customer" schema="public" catalog="Shop"/>
+                <attributes>
+                        <id name="customerid">
+                                <column name="customerid"/>
+                        </id>
+                        <basic name="mobilephone">
+                                <column name="mobilephone"/>
+                        </basic>
+                        <basic name="name">
+                                <column name="name"/>
+                        </basic>
+                        <basic name="telephone">
+                                <column name="telephone"/>
+                        </basic>
+                        <basic name="email">
+                                <column name="email"/>
+                        </basic>
+                        <basic name="password">
+                                <column name="password"/>
+                        </basic>
+                        <one-to-one name="customerByCustomerid" optional="true"
+                                    target-entity="com.shop.entity.CustomerEntity">
+                                <join-column name="customerid" nullable="false" referenced-column-name="customerid"/>
+                        </one-to-one>
+                        <one-to-one name="customerByCustomerid_0" optional="true" mapped-by="customerByCustomerid"
+                                    target-entity="com.shop.entity.CustomerEntity"/>
+                </attributes>
+        </entity>
+</entity-mappings>

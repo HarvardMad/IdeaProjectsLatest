@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c0f5d12-ccad-41b9-aa38-30a9fcbbc386" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fcuk/lib/freemarker-2.3.15.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fcuk/web/WEB-INF/lib/freemarker-2.3.15.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/ComparabeExample/MarksComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/ComparabeExample/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/ComparabeExample/StudentController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/JavaConcurrencyProjects/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/JavaConcurrencyProjects/src/NumOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/JavaConcurrencyProjects/src/NumTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/ReverseANumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/ReverseUsingRecursion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/Threads/FindDuplicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/Threads/ThreadOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/Threads/ThreadRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/Threads/ThreadTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/codility/BinaryGap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/codility/DescendingOrder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/codility/DescendingUsingStringBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/codility/FrogJump.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/codility/Groups.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/codility/ImprovedBinaryGap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/codility/Multiply.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/codility/OddOccur.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/codility/RotateArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/codility/TestPalindrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview/src/sol.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fcuk/.idea/libraries/PrimeFaces_5_2__2_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fcuk/.idea/libraries/PrimeFaces_5_2__3_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fcuk/pom.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-maps-utils/demo/res/drawable-xhdpi/teacher.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-maps-utils/demo/res/drawable-xhdpi/turtle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-maps-utils/demo/res/drawable-xhdpi/walter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-maps-utils/demo/res/drawable-xhdpi/yeats.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__ch_qos_cal10n_cal10n_api_0_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__com_google_collections_google_collections_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__com_google_guava_guava_r06.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__com_sun_faces_jsf_api_2_0_3_b05.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__javax_enterprise_cdi_api_1_0_SP4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__javax_jws_jsr181_api_1_0_MR1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__javax_mail_mail_1_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__javax_xml_jaxrpc_api_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__junit_junit_4_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_felix_org_apache_felix_resolver_0_1_0_Beta1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_maven_maven_model_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_maven_maven_settings_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_maven_wagon_wagon_file_1_0_beta_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_lightweight_1_0_beta_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_shared_1_0_beta_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_beta_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_apache_xbean_xbean_reflect_3_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_5_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_hibernate_hibernate_jpamodelgen_1_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_hibernate_hibernate_validator_4_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_javassist_javassist_3_14_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_api_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_config_arquillian_config_impl_base_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_osgi_1_0_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_spi_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_api_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_impl_base_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_container_arquillian_container_test_spi_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_api_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_core_arquillian_core_spi_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_protocol_arquillian_protocol_jmx_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_api_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_test_arquillian_test_spi_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_cdi_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_ejb_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_initialcontext_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_osgi_1_0_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_resource_1_0_0_CR7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_arquillian_common_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_arquillian_container_managed_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_arquillian_protocol_jmx_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_arquillian_testenricher_msc_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_build_config_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_controller_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_controller_client_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_deployment_repository_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_domain_http_interface_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_domain_management_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_ee_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_embedded_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_jmx_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_naming_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_network_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_osgi_service_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_platform_mbean_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_process_controller_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_protocol_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_remoting_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_server_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_as_jboss_as_threads_7_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_com_sun_httpserver_httpserver_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_interceptor_jboss_interceptor_core_2_0_0_CR1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_interceptor_jboss_interceptor_spi_2_0_0_CR1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_invocation_jboss_invocation_1_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_jandex_1_0_3_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_jboss_common_core_2_2_17_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_jboss_dmr_1_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_jboss_ejb_client_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_jboss_remote_naming_1_0_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_jboss_vfs_3_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_logmanager_jboss_logmanager_1_2_2_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_logmanager_jboss_logmanager_log4j_1_0_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_1_3_9_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_river_1_3_11_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_metadata_jboss_metadata_common_7_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_metadata_jboss_metadata_ear_7_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_modules_jboss_modules_1_1_1_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_msc_jboss_msc_1_0_2_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_deployment_jbosgi_deployment_1_0_12_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_framework_jbosgi_framework_core_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_metadata_jbosgi_metadata_2_0_3_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_repository_jbosgi_repository_api_1_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_repository_jbosgi_repository_core_1_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_resolver_jbosgi_resolver_api_1_0_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_resolver_jbosgi_resolver_api_v2_2_0_0_Beta2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_resolver_jbosgi_resolver_felix_1_0_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_resolver_jbosgi_resolver_spi_1_0_13_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_spi_jbosgi_spi_3_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_vfs_jbosgi_vfs30_1_0_7_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_osgi_vfs_jbosgi_vfs_1_0_7_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_remoting3_jboss_remoting_3_2_3_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_remotingjmx_remoting_jmx_1_0_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_resteasy_jaxrs_api_2_1_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_sasl_jboss_sasl_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_api_1_1_0_beta_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_spi_1_1_0_beta_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_1_0_0_beta_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_1_0_0_beta_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_1_0_0_beta_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_api_1_0_0_cr_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_impl_base_1_0_0_cr_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_shrinkwrap_shrinkwrap_spi_1_0_0_cr_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_1_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_ejb_jboss_ejb_api_3_1_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_el_jboss_el_api_2_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_enterprise_deploy_jboss_jad_api_1_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_interceptor_jboss_interceptors_api_1_1_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_jms_jboss_jms_api_1_1_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_resource_jboss_connector_api_1_5_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_security_auth_message_jboss_jaspi_api_1_0_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_security_jacc_jboss_jacc_api_1_4_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_servlet_jboss_servlet_api_3_0_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_servlet_jsp_jboss_jsp_api_2_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_xml_bind_jboss_jaxb_api_2_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_xml_registry_jboss_jaxr_api_1_0_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_xml_rpc_jboss_jaxrpc_api_1_1_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_xml_soap_jboss_saaj_api_1_3_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_spec_javax_xml_ws_jboss_jaxws_api_2_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_staxmapper_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_stdio_jboss_stdio_1_0_1_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_threads_jboss_threads_2_0_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_weld_weld_api_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_weld_weld_build_config_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_weld_weld_core_1_1_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_weld_weld_spi_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_xnio_xnio_api_3_0_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_jboss_xnio_xnio_nio_3_0_3_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_osgi_org_osgi_compendium_4_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_osgi_org_osgi_core_4_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_osgi_org_osgi_enterprise_4_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_slf4j_slf4j_ext_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_6_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_sonatype_aether_aether_api_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_sonatype_aether_aether_connector_wagon_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_sonatype_aether_aether_impl_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_sonatype_aether_aether_spi_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_sonatype_aether_aether_util_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/130281.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/AUDIO.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/BADGES.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/BARS, GRILLES &amp; ACCESSORIES.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/BODY PANELS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/BREAKS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/Badges/BD1000.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/Badges/BD1001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/Badges/BD1002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/Badges/BD1003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/Badges/BD1004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/TRANSMISSION &amp; CLUTCH.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/resources/images/Wheels.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/130281.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/AUDIO.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/BADGES.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/BARS, GRILLES &amp; ACCESSORIES.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/BODY PANELS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/BREAKS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/Badges/BD1000.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/Badges/BD1001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/Badges/BD1002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/Badges/BD1003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/Badges/BD1004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/TRANSMISSION &amp; CLUTCH.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fcuk/web/resources/images/Wheels.JPG" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/cart/CartFacade.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/cart/CartFacade.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/cart/ShoppingCart.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/cart/ShoppingCart.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/cart/ShoppingCartBean.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/cart/ShoppingCartBean.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/cart/ShoppingCartLocal.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/cart/ShoppingCartLocal.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/Category.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/Category.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/CustomerEntity.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/CustomerEntity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/CustomerManager.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/CustomerManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/CustomerManagerBean.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/CustomerManagerBean.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/CustomerManagerLocal.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/CustomerManagerLocal.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/Order.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/Order.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/Orderitem.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/Orderitem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/ProductEntity.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/entity/ProductEntity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/Login.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/Login.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/NewCustomer.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/NewCustomer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/NewProductManagedBean.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/NewProductManagedBean.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/ShoppingCartManagedBean.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/ShoppingCartManagedBean.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/ViewCartManagedBean.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/ViewCartManagedBean.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/ViewProductsManagedBean.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/managedbeans/ViewProductsManagedBean.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/product/ProductFacade.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/product/ProductFacade.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/product/ProductLocal.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/product/ProductLocal.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/product/ProductRemote.class" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/WEB-INF/classes/com/shop/product/ProductRemote.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview/.idea/misc.xml" afterPath="$PROJECT_DIR$/Interview/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview/src/CheckPrime.java" afterPath="$PROJECT_DIR$/Interview/src/CheckPrime.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview/src/CountCharacters.java" afterPath="$PROJECT_DIR$/Interview/src/CountCharacters.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview/src/LinearSearch.java" afterPath="$PROJECT_DIR$/Interview/src/LinearSearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview/src/Main.java" afterPath="$PROJECT_DIR$/Interview/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview/src/RangeOfPrimes.java" afterPath="$PROJECT_DIR$/Interview/src/RangeOfPrimes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview/src/collections_package/JavaHashMap.java" afterPath="$PROJECT_DIR$/Interview/src/collections_package/JavaHashMap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interview/src/collections_package/StackSolution.java" afterPath="$PROJECT_DIR$/Interview/src/collections_package/StackSolution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/.idea/compiler.xml" afterPath="$PROJECT_DIR$/fcuk/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/.idea/misc.xml" afterPath="$PROJECT_DIR$/fcuk/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/.idea/workspace.xml" afterPath="$PROJECT_DIR$/fcuk/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/WoodysMazda_MSC_Project.iml" afterPath="$PROJECT_DIR$/fcuk/WoodysMazda_MSC_Project.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/Admin.xhtml" afterPath="$PROJECT_DIR$/fcuk/out/artifacts/fcuk_war_exploded.war/Admin.xhtml" />
+    </list>
+    <ignored path="recFun.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="recFun" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recfun/src/main/scala/recfun/Main.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlattenList.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nintynine/src/nintynine/scala/tasks/FlattenList.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Interview" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/recfun/src/main/scala/recfun/Main.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1602" />
+    <option name="y" value="30" />
+    <option name="width" value="1280" />
+    <option name="height" value="727" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recFun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recFun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IdeaProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recFun" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IdeaProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Markbook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.TFS" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1465844921086" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="IdeaProjects" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="ideaprojects" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ideaprojects-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Downloads/recfun" value="1465773845000" />
+        <entry key="$PROJECT_DIR$" value="1465844893000" />
+        <entry key="$PROJECT_DIR$/courserascalacourse" value="1464707066000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c0f5d12-ccad-41b9-aa38-30a9fcbbc386" name="Default" comment="" />
+      <created>1465844893805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1465844893805</updated>
+      <workItem from="1465844895399" duration="2726000" />
+      <workItem from="1469675428277" duration="107000" />
+      <workItem from="1472962585192" duration="35000" />
+      <workItem from="1474084491311" duration="55000" />
+      <workItem from="1475932626847" duration="3000" />
+      <workItem from="1492463988998" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2928000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1602" y="30" width="1280" height="727" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/recfun/src/main/scala/recfun/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nintynine/src/nintynine/scala/tasks/FlattenList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recfun/src/main/scala/recfun/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nintynine/src/nintynine/scala/tasks/FlattenList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recfun/src/main/scala/recfun/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nintynine/src/nintynine/scala/tasks/FlattenList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recfun/src/main/scala/recfun/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recfun/src/main/scala/recfun/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recfun/src/main/scala/recfun/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nintynine/src/nintynine/scala/tasks/FlattenList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

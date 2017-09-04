@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/Marks</property>
+        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.connection.password">root</property>
+        <property name="hibernate.archive.autodetection">class</property>
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.format_sql">true</property>
+        <property name="hbm2ddl.auto">update</property>
+
+
+        <!--JDBC Connection pool size-->
+        <property name="connection.pool_size">1</property>
+
+        <!--SQL Dialect-->
+        <property name="hibernate.dialect">org.hibernate.dialect.PostgresPlusDialect</property>
+
+
+        <mapping class="org.compsci.entity.UserDetails"/>
+    </session-factory>
+</hibernate-configuration>

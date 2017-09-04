@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" android:background="#ff040203" android:weightSum="1">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:text="Main Menu - Please Choose an Option"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#ff68d7ff" android:background="#ff000000" android:textAlignment="center"
+            android:id="@+id/textViewMenuTitle"/>
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:layout_gravity="right" android:background="#ff000000">
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Login"
+                android:id="@+id/button1" android:layout_alignParentTop="true" android:layout_alignParentStart="true"
+                android:layout_marginTop="175dp" android:textColor="#ff68d7ff"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/btnRegister"
+                android:id="@+id/button2" android:layout_alignTop="@+id/button1" android:layout_alignParentEnd="true"
+                android:textColor="#ff68d7ff"/>
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Browse Catalogue"
+                android:id="@+id/button3" android:layout_alignParentTop="true" android:layout_toEndOf="@+id/button1"
+                android:layout_alignParentStart="true" android:textColor="#ff68d7ff"/>
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Find Us"
+                android:id="@+id/button4" android:layout_alignParentBottom="true"
+                android:layout_toEndOf="@+id/button1" android:layout_alignParentStart="true"
+                android:textColor="#ff68d7ff"/>
+    </RelativeLayout>
+
+</LinearLayout>

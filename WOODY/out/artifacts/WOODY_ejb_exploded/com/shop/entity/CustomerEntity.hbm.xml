@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.shop.entity.CustomerEntity" table="customer" schema="public" catalog="Shop">
+        <id name="customerid" column="customerid"/>
+        <property name="mobilephone" column="mobilephone"/>
+        <property name="name" column="name"/>
+        <property name="telephone" column="telephone"/>
+        <property name="email" column="email"/>
+        <property name="password" column="password"/>
+        <one-to-one name="customerByCustomerid" class="com.shop.entity.CustomerEntity"/>
+        <one-to-one name="customerByCustomerid_0" class="com.shop.entity.CustomerEntity"/>
+        <set name="ordersByCustomerid" inverse="true">
+            <key>
+                <column name="customerid"/>
+            </key>
+            <one-to-many not-found="ignore" class="com.shop.entity.OrderEntity"/>
+        </set>
+    </class>
+</hibernate-mapping>
