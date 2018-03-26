@@ -1,7 +1,16 @@
+/*
+ Lalin Pethiyagoda
+ 25/03/2018
+ */
 package com.hotel.booking.akka
 
 import java.text.SimpleDateFormat
 import java.util.Date
+import akka.util.Timeout
+/*
+ Lalin Pethiyagoda
+ 25/03/2018
+ */
 
 import com.hotel.booking.{BookingManager, BookingManagerImpl, RoomUnavailableException}
 import akka.actor.{Actor, ActorSystem, Props}
@@ -10,6 +19,7 @@ import akka.actor.{Actor, ActorSystem, Props}
 class HBSActor extends Actor {
 
   val manager = new BookingManagerImpl
+
 
   override def receive: Receive = {
 
