@@ -1,4 +1,4 @@
-package com.barclays.binarysearchtree;
+package com.binarysearchtree;
 
 public class BinarySearchTree {
   private TreeNode root=null;
