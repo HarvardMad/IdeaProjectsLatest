@@ -28,7 +28,7 @@ public class AppServer {
         .build();
 
     logger.info("starting ");
-    server.stop();
+   server.stop();
     server.start();
   }
 
