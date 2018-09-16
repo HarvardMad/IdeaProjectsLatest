@@ -1,13 +1,21 @@
-package com.revolut.accounts;
+package com.revolut.accounts.datamodel;
 
 import java.util.Random;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
+/**
+ *
+ */
 public final class CurrentAccount {
   private final String name;
   private final String accountNumber;
-  private double balanceAmount;  // Total amount in bank account
+
+  // Total amount in bank account:
+  // No need for volatile here as lock operation ensures happens-before
+  // relationships that are essential to visibility
+  private double balanceAmount;
+
   private final Lock lock = new ReentrantLock();
   private final Random number = new Random(123L);
 
@@ -21,8 +29,18 @@ public final class CurrentAccount {
   }
 
   /**
+   * return unique
+   * account number
+   * @return
+   */
+  public String getAccountNumber(){
+    return this.accountNumber;
+  }
+
+  /**
    * Transfers money
-   * from this to the instance argument
+   * from this[the current object]
+   * to the instance argument
    * recepientsAccountNumber
    * @param recepientsAccountNumber
    * @param amount
@@ -54,10 +72,27 @@ public final class CurrentAccount {
        * let it rest
        * for a bit before trying
        * to acquire the locks
-       * again
+       * again - to avoid livelock
        */
       Thread.sleep(1500);
     }
+  }
+
+  public static void startMoneyTransferProcess(final CurrentAccount sendersAccount, final CurrentAccount
+      receiversAccount, double transferAmount){
+    //Runnable to execute the logic
+    Runnable moneyTransfer = () -> {
+      try {
+        sendersAccount.transferMoneyIntoAnotherAccount(receiversAccount, transferAmount);
+      }catch(InterruptedException  ie){
+        ie.printStackTrace();
+        //Something went wrong: Interrupt the current process
+        Thread.currentThread().interrupt();
+      }
+    };
+
+    Thread moneyTransferThread = new Thread(moneyTransfer);
+    moneyTransferThread.start();
   }
 
 

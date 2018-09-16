@@ -1,4 +1,4 @@
-package com.revolut.AppServer;
+package com.revolut.config;
 
 import io.undertow.Undertow;
 import io.undertow.server.HttpServerExchange;
