@@ -10,34 +10,34 @@ import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 
 public class TransferHandler implements HttpHandler {
-  TransferRequest transferRequest=null;
-  private static final AccountsDAO accountsDAO = new AccountsDAO();
-  @Override
-  public  void handleRequest(HttpServerExchange httpServerExchange)  {
 
-    accountsDAO.createNewAccount("Adam",400.00,"12345");
-    accountsDAO.createNewAccount("Zac",250.23,"54321");
+  TransferRequest transferRequest = null;
+  private static final AccountsDAO accountsDAO = new AccountsDAO();
+
+  @Override
+  public void handleRequest(HttpServerExchange httpServerExchange) {
+
+    accountsDAO.createNewAccount("Adam", 400.00, "12345");
+    accountsDAO.createNewAccount("Zac", 250.23, "54321");
 
     httpServerExchange.getRequestReceiver().receiveFullBytes((exchange, data) -> {
       try {
         ObjectMapper mapper = new ObjectMapper();
         String dataStr = new String(data, "UTF-8");
-        String result = "-";
 
-        TransferRequest request= mapper.readValue(dataStr, TransferRequest.class);
-        TransferDetails transferDetails = new TransferDetails(request.getSendersAccountNumber(),request
+        TransferRequest request = mapper.readValue(dataStr, TransferRequest.class);
+        TransferDetails transferDetails = new TransferDetails(request.getSendersAccountNumber(), request
             .getRecepientsmAccountNumber(), Double.parseDouble(request.getTransferAmount()));
 
         CurrentAccount fromAcc = accountsDAO.getAccount(transferDetails.sendersAccountNumber);
         CurrentAccount toAcc = accountsDAO.getAccount(transferDetails.recepientsmAccountNumber);
-        try{
-          CurrentAccount.startMoneyTransferProcess(fromAcc,toAcc,transferDetails.transferAmount);
-        }catch(IllegalArgumentException ilg){
+        try {
+          CurrentAccount.startMoneyTransferProcess(fromAcc, toAcc, transferDetails.transferAmount);
+        } catch (IllegalArgumentException ilg) {
           ilg.printStackTrace();
         }
 
-
-        MoneyTransferResponse moneyTransferResponse =  new MoneyTransferResponse();
+        MoneyTransferResponse moneyTransferResponse = new MoneyTransferResponse();
         moneyTransferResponse.setSendersBalance(String.valueOf(fromAcc.getBalanceAmount()));
         moneyTransferResponse.setRecepientsBalance(String.valueOf(toAcc.getBalanceAmount()));
         moneyTransferResponse.setTransferAmount(String.valueOf(transferDetails.transferAmount));
@@ -47,7 +47,7 @@ public class TransferHandler implements HttpHandler {
         httpServerExchange.getResponseSender().send(jsonResult);
 
 
-      }  catch (UnsupportedEncodingException e) {
+      } catch (UnsupportedEncodingException e) {
         e.printStackTrace();
       } catch (JsonProcessingException e) {
         e.printStackTrace();
@@ -55,13 +55,12 @@ public class TransferHandler implements HttpHandler {
         e.printStackTrace();
       }
 
-        });
-
+    });
 
 
   }
 
-  public TransferRequest getTransferRequest(){
+  public TransferRequest getTransferRequest() {
     return this.transferRequest;
   }
 
