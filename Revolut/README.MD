@@ -13,3 +13,5 @@ Request Object (Json)
     "senders_balance": "400.0",
     "recepients_balance": "250.23"
 }
+
+Endpoint URL : http://localhost:8080/transfer
