@@ -51,22 +51,25 @@ public final class CurrentAccount {
    * @param amount
    * @throws InterruptedException
    */
-  private void transferMoneyIntoAnotherAccount(CurrentAccount recepientsAccountNumber, double amount)
+  private String transferMoneyIntoAnotherAccount(CurrentAccount recepientsAccountNumber, double amount)
       throws InterruptedException {
+    String message ="transfer complete";
     while(true) {
       if (this.lock.tryLock()) {
         try {
           if (recepientsAccountNumber.lock.tryLock()) { // grab both accounts' locks before trasnfer
             try {
               if (amount > balanceAmount) {
-                throw new IllegalArgumentException("There is insufficient funds in the account. The transfer "
-                    + "cannot be made");
+                message = "There is insufficient funds in the account. The transfer "
+                    + "cannot be made";
+                break;
               }
               recepientsAccountNumber.balanceAmount += amount;
               this.balanceAmount -= amount;
-              break;
+
             } finally {
               recepientsAccountNumber.lock.unlock();
+              break;
             }
           }
         } finally {
@@ -81,24 +84,19 @@ public final class CurrentAccount {
        */
       Thread.sleep(1500);
     }
+
+    return message;
   }
 
-  public static void  startMoneyTransferProcess(final CurrentAccount sendersAccount, final
+  public static String  startMoneyTransferProcess(final CurrentAccount sendersAccount, final
   CurrentAccount receiversAccount, double transferAmount){
-    //Runnable to execute the logic
-    Runnable moneyTransfer = () -> {
-      try {
-        sendersAccount.transferMoneyIntoAnotherAccount(receiversAccount, transferAmount);
-      }catch(InterruptedException ie){
-        ie.printStackTrace();
-        Thread.currentThread().interrupt();
-      }catch(IllegalArgumentException ie){
-        throw new IllegalArgumentException(ie.getMessage());
-      }
-    };
-
-    Thread moneyTransferThread = new Thread(moneyTransfer);
-    moneyTransferThread.start();
+    String message=null;
+    try {
+      message = sendersAccount.transferMoneyIntoAnotherAccount(receiversAccount, transferAmount);
+    } catch (InterruptedException e) {
+      e.printStackTrace();
+    }
+    return message;
   }
 
 

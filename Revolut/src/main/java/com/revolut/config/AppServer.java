@@ -1,36 +1,65 @@
 package com.revolut.config;
 
-import com.revolut.accounts.datamodel.TransferHandler;
-import io.undertow.Undertow;
-import io.undertow.server.HttpServerExchange;
-import io.undertow.server.RoutingHandler;
+
+import com.revolut.accounts.Routes.RouteManager;
+import io.vertx.core.AbstractVerticle;
+import io.vertx.core.AsyncResult;
+import io.vertx.core.Handler;
+import io.vertx.core.Vertx;
+import io.vertx.core.http.HttpServer;
+import io.vertx.core.http.HttpServerOptions;
+import io.vertx.ext.web.Router;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class AppServer {
- private static final Logger logger = LoggerFactory.getLogger(AppServer.class);
-  public static void getTransfer(HttpServerExchange httpServerExchange) throws Exception {
-     final RoutingHandler ROUTES = new RoutingHandler().post("/transfer",new TransferHandler());
-     ROUTES.handleRequest(httpServerExchange);
+/**
+ * You can’t do much in Vert.x-land unless you can communicate with a Vertx object!
+ * It’s the control centre of Vert.x
+ * and it is how you do pretty much everything,
+ * including creating clients and servers,
+ * getting a reference to the event
+ * bus, setting timers, as well as many other things.
+ */
+
+public class AppServer extends AbstractVerticle{
+
+  private static final Logger logger = LoggerFactory.getLogger(AppServer.class);
+
+  private HttpServer vertxServer = null;
+  Vertx vertx=Vertx.vertx();
+
+  @Override
+  public void start() throws Exception {
+
+    HttpServer server = setUpServerWithLogging(vertx);
   }
 
+  private static HttpServer setUpServerWithLogging(Vertx vertx) {
 
+    //For debugging purposes, network activity can be logged.
+    HttpServerOptions options = new HttpServerOptions()
+        .setLogActivity(true)
+        .setHost("localhost")
+        .setPort(8080);
 
-  public static void main(String[] args) {
+    HttpServer server = vertx.createHttpServer(options);
+    Router router = RouteManager.establishRoutes(vertx);
+    server.requestHandler(router::accept)
+        .listen(listenerHandler);
 
-    Undertow server = null;
-    final int PORT = 8080;
-    final String LOCALHOST = "localhost";
-
-     server = Undertow.builder()
-        .addHttpListener(PORT, LOCALHOST,AppServer::getTransfer)
-        .build();
-
-    server.start();
-
-
+    return server;
 
   }
+
+  private static Handler<AsyncResult<HttpServer>> listenerHandler = (asyncResult)
+      -> {
+    if (asyncResult.succeeded()) {
+      System.out.println("***** Server started to listen *****");
+    } else {
+      System.out.println("server failed");
+    }
+  };
+
 
 
 }

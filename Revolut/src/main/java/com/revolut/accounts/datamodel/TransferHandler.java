@@ -55,12 +55,20 @@ public class TransferHandler implements HttpHandler {
         e.printStackTrace();
       }
 
-    });
+        });
 
 
+    // add a new object final
+
+
+
+
+    /*CompletableFuture<CreateMoneyTransferResponse> result = service.transferMoney(transferDetails).thenApply((e) -> {
+      CreateMoneyTransferResponse m =  new CreateMoneyTransferResponse(e.getEntityId());
+      return m;*/
   }
 
-  public TransferRequest getTransferRequest() {
+  public TransferRequest getTransferRequest(){
     return this.transferRequest;
   }
 

@@ -5,18 +5,27 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public class MoneyTransferResponse {
 
   @JsonProperty("transfer_amout")
-  public String transferAmount;
+  private String transferAmount;
 
   @JsonProperty("senders_balance")
-  public String sendersBalance;
+  private String sendersBalance;
 
   @JsonProperty("recepients_balance")
-  public String recepientsBalance;
+  private String recepientsBalance;
 
+  private String result;
 
 
   public MoneyTransferResponse(){
 
+  }
+
+  public String getResult() {
+    return result;
+  }
+
+  public void setResult(String result) {
+    this.result = result;
   }
 
   public String getTransferAmount() {
