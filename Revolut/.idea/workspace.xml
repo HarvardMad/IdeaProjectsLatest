@@ -2,69 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fef7160-15eb-45dc-94df-678f933a4488" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__com_univocity_univocity_parsers_1_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__pl_pragmatists_JUnitParams_1_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/DuplicateElements.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/FindIntersectionOfTwoArrays.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/MoneyWithExceptionHandling.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/MovingZerosToEndOfAnArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/SecondlargetInArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/XL.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/stringreverse/StringReverse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/resources/Book1.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/resources/Book1.xlsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/resources/names.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/resources/test.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/test/array/ArrayTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/test/exceptions/TestMoney.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/test/parameterisedtests/TestMoney.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/test/parameterisedtests/TestMoneyParameterised.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/test/stringreverse/StringReverseTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_couchbase_client_core_io_1_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_couchbase_client_java_client_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_englishtown_vertx_vertx_guice_2_0_0_RC1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_3_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_scala_logging_scala_logging_2_11_3_9_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentracing_opentracing_api_0_31_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_1_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_rx_java2_3_5_3_CR1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_2_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/ApplicationCosntants.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/ContactDetails.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/Customer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/config/GuiceModule.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/exception/InvalidParamsPassedIntoMoneyTransfer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/exception/ServerFailedToStartException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/exception/TransferProcessException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/BaseVerticle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/EventBusReceiverVerticle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/EventBusSenderVerticle.java" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/pom.xml" afterPath="$PROJECT_DIR$/../Arrays/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/com/java/array/ex/ArrayIntro.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/com/java/array/ex/Money.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/DuplicateElements.java" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/DuplicateElements.java" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/FindIntersectionOfTwoArrays.java" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/FindIntersectionOfTwoArrays.java" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/MovingZerosToEndOfAnArray.java" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/MovingZerosToEndOfAnArray.java" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/XL.java" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/XL.java" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/main/resources/Book1.csv" afterPath="$PROJECT_DIR$/../Arrays/src/main/resources/Book1.csv" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/main/resources/names.csv" afterPath="$PROJECT_DIR$/../Arrays/src/main/resources/names.csv" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/main/resources/test.csv" afterPath="$PROJECT_DIR$/../Arrays/src/main/resources/test.csv" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/test/array/ArrayTests.java" afterPath="$PROJECT_DIR$/../Arrays/test/array/ArrayTests.java" />
       <change beforePath="$PROJECT_DIR$/../Coursera_Algorithms/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Coursera_Algorithms/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/../Coursera_Algorithms/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Coursera_Algorithms/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../Coursera_Algorithms/src/main/java/com/barclays/OddOccurenceArray.java" afterPath="$PROJECT_DIR$/../Coursera_Algorithms/src/main/java/com/barclays/OddOccurenceArray.java" />
@@ -313,26 +261,9 @@
       <change beforePath="$PROJECT_DIR$/../Markbook/src/sample/Controller.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../Markbook/src/sample/Main.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../Markbook/src/sample/sample.fxml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_all_5_15_3.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Revolut.iml" afterPath="$PROJECT_DIR$/Revolut.iml" />
-      <change beforePath="$PROJECT_DIR$/hs_err_pid62977.log" afterPath="$PROJECT_DIR$/hs_err_pid62977.log" />
-      <change beforePath="$PROJECT_DIR$/hs_err_pid71573.log" afterPath="$PROJECT_DIR$/hs_err_pid71573.log" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/Routes/RouteManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/Routes/RouteManager.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferHandler.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/UserRoutes.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/UserRoutes.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/TransferHandler.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/config/AppServer.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/AppServerVerticle.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/config/Runner.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/config/Runner.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/Routes/RouteManager.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/Routes/RouteManager.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/TransferHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/TransferHandler.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/handlers/AllRequestHandlers.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/handlers/AllRequestHandlers.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/handlers/TransferHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/config/AppServer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/config/Runner.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/config/Runner.class" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RevolutTests.java" afterPath="$PROJECT_DIR$/src/test/java/RevolutTests.java" />
       <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/.idea/compiler.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/.idea/libraries/Spring_4_3_9_RELEASE.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/.idea/misc.xml" afterPath="" />
@@ -1035,11 +966,21 @@
       <file leaf-file-name="CustomerVerticle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="25" column="57" lean-forward="true" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+            <state relative-caret-position="315">
+              <caret line="25" column="57" lean-forward="false" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RevolutTests.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/RevolutTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-239">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1048,7 +989,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
-              <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+              <caret line="47" column="3" lean-forward="false" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -1064,10 +1005,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
+            <state relative-caret-position="-24">
               <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
               <folding>
                 <element signature="e#1285#1286#0" expanded="true" />
@@ -1095,7 +1036,7 @@
       <file leaf-file-name="AllRequestHandlers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
+            <state relative-caret-position="72">
               <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding />
             </state>
@@ -1138,7 +1079,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/config/BodyHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/dao/AccountsDAO.java" />
-        <option value="$PROJECT_DIR$/src/test/java/RevolutTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/TransferHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferDetails.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllHandlers.java" />
@@ -1170,6 +1110,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/Customer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RevolutTests.java" />
       </list>
     </option>
   </component>
@@ -1186,17 +1127,16 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1331" />
-    <option name="y" value="-95" />
-    <option name="width" value="1683" />
-    <option name="height" value="939" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -1211,7 +1151,75 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Revolut" type="cbb8eebc:String" user="Revolut" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Revolut" type="cbb8eebc:String" user="Revolut" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Revolut" type="cbb8eebc:String" user="Revolut" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Revolut" type="cbb8eebc:String" user="Revolut" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Revolut" type="cbb8eebc:String" user="Revolut" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Revolut" type="cbb8eebc:String" user="Revolut" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="revolut" type="cbb8eebc:String" user="revolut" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Revolut" type="cbb8eebc:String" user="Revolut" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main" type="cbb8eebc:String" user="main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+              <item name="com" type="cbb8eebc:String" user="com" />
+              <item name="revolut" type="cbb8eebc:String" user="revolut" />
+              <item name="accounts" type="cbb8eebc:String" user="accounts" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Revolut" type="cbb8eebc:String" user="Revolut" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="test" type="cbb8eebc:String" user="test" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Revolut" type="cbb8eebc:String" user="Revolut" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="test" type="cbb8eebc:String" user="test" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -1346,143 +1354,16 @@
             </path>
             <path>
               <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Revolut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.inject:guice:4.0" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.inject:guice:4.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guice-4.0.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.inject:guice:4.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guice-4.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.inject:guice:4.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guice-4.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.inject:guice:4.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guice-4.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-              <item name="inject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-core:3.5.4" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-core:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-core-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-core:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-core-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-core:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-core-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="vertx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-core:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-core-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="vertx" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-core:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-core-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="vertx" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="eventbus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-web:3.5.4" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-web:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-web-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-web:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-web-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-web:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-web-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="vertx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-web:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-web-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="vertx" type="462c0819:PsiDirectoryNode" />
-              <item name="ext" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-web:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-web-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="vertx" type="462c0819:PsiDirectoryNode" />
-              <item name="ext" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-web:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-web-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="vertx" type="462c0819:PsiDirectoryNode" />
-              <item name="ext" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="Revolut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1494,8 +1375,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
@@ -1688,7 +1569,7 @@
       <workItem from="1543055722064" duration="6343000" />
       <workItem from="1544969940378" duration="30360000" />
       <workItem from="1549607189345" duration="589000" />
-      <workItem from="1550181749864" duration="11446000" />
+      <workItem from="1550181749864" duration="12965000" />
     </task>
     <servers />
   </component>
@@ -1704,11 +1585,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150411000" />
+    <option name="totallyTimeSpent" value="151930000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-95" width="1920" height="1018" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="738" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1720,10 +1600,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26517573" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17419355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53064513" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2257721" sideWeight="0.4935484" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34248787" sideWeight="0.4935484" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42777777" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1731,7 +1611,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13327949" sideWeight="0.5064516" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3077778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44677418" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1922,14 +1802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RevolutTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2146,14 +2018,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.4/vertx-core-3.5.4-sources.jar!/io/vertx/core/Vertx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-506">
@@ -2199,17 +2063,7 @@
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="57" lean-forward="true" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2217,14 +2071,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
-          <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+          <caret line="47" column="3" lean-forward="false" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
+        <state relative-caret-position="-24">
           <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
           <folding>
             <element signature="e#1285#1286#0" expanded="true" />
@@ -2232,6 +2086,32 @@
             <element signature="e#1681#1682#0" expanded="true" />
             <element signature="e#1720#1721#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="57" lean-forward="false" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RevolutTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
