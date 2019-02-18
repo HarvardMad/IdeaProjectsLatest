@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cae8b45e-efcc-42de-a04a-1f01c3818ba5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Coursera_Algorithms/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Coursera_Algorithms/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../GSP/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/.idea/artifacts/GSP_ejb_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/.idea/artifacts/GSP_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/GSP.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/META-INF/ejb-jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/out/artifacts/GSP_ejb_exploded/META-INF/ejb-jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/out/artifacts/GSP_war_exploded/WEB-INF/faces-config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/out/artifacts/GSP_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/out/artifacts/GSP_war_exploded/index.xhtml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/src/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/src/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/src/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/src/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/src/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/src/.idea/src.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/src/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/src/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/web/WEB-INF/faces-config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/web/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GSP/web/index.xhtml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HBS/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/dataSources.ids" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/dataSources.local.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/dataSources.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/libraries/Hibernate_4_2_2_4_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/HibernateFirst.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/lib/antlr-2.7.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/lib/hibernate-commons-annotations-4.0.2.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/lib/hibernate-core-4.2.2.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/lib/javassist-3.15.0-GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/lib/jboss-logging-3.1.0.GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/out/production/HibernateFirst/hibernate.cfg.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/out/production/HibernateFirst/org/compsci/entity/UserDetails.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/out/production/HibernateFirst/org/hibernate/launch/session/HibernateTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/out/production/HibernateFirst/org/hibernate/launch/session/HibernateUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/src/hibernate.cfg.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/src/org/compsci/entity/UserDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/src/org/hibernate/launch/session/HibernateTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HibernateFirst/src/org/hibernate/launch/session/HibernateUtil.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/Booking.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/Booking.scala" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManager.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManager.scala" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManagerConsole.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManagerConsole.scala" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManagerImpl.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManagerImpl.scala" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/RoomUnavailableException.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/RoomUnavailableException.scala" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/Test.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/Test.scala" />
+      <change beforePath="$PROJECT_DIR$/../Interview" afterPath="$PROJECT_DIR$/../Interview" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/ant.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/dataSources.ids" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/dataSources.local.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/dataSources.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/encodings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/gradle.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/libraries/Hibernate_4_2_2_4_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/libraries/org_postgresql_postgresql_9_4_1201_jdbc41.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/Markbook.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/lib/antlr-2.7.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/lib/hibernate-commons-annotations-4.0.2.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/lib/hibernate-core-4.2.2.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/lib/javassist-3.15.0-GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/lib/jboss-logging-3.1.0.GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/out/production/Markbook/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/out/production/Markbook/hibernate.cfg.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/out/production/Markbook/hibernate/launch/session/HibernateTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/out/production/Markbook/hibernate/launch/session/HibernateUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/out/production/Markbook/org/compsci/entity/UserDetails.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/out/production/Markbook/sample/Controller.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/out/production/Markbook/sample/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/out/production/Markbook/sample/sample.fxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/src/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/src/hibernate.cfg.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/src/hibernate/launch/session/HibernateTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/src/hibernate/launch/session/HibernateUtil.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/src/org/compsci/entity/UserDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/src/sample/Controller.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/src/sample/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Markbook/src/sample/sample.fxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/.idea/libraries/Spring_4_3_9_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/SpiringCoreDemo.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/aopalliance-1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/commons-logging-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-aop-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-aspects-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-beans-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-context-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-context-support-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-core-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-expression-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-instrument-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-instrument-tomcat-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-jdbc-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-jms-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-messaging-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-orm-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-oxm-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-test-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-tx-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WEIndian" afterPath="$PROJECT_DIR$/../WEIndian" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/artifacts/JSF_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/artifacts/WOODY_ejb_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/artifacts/WOODY_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/dataSources.ids" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/dataSources.local.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/dataSources.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/libraries/Hibernate_4_2_2_4_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/libraries/OpenFaces_3_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/libraries/PrimeFaces_5_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/libraries/Richfaces_4_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/libraries/ejb_3_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/META-INF/ejb-jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/WOODY.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/antlr-2.7.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/commons-codec-1.3-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/commons-collections.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/cssparser-0.9.4-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/cssparser.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/dojo-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/hibernate-commons-annotations-4.0.2.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/hibernate-core-4.2.2.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javassist-3.15.0-GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.batch-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.ejb-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.el.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.enterprise.concurrent-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.enterprise.concurrent.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.enterprise.deploy-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.faces.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.inject.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.interceptor-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.jms-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.json.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.mail.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.management.j2ee-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.persistence-2.1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.persistence.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.resource-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.security.auth.message-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.security.jacc-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.servlet-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.servlet.jsp-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.servlet.jsp-api_2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.servlet.jsp.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.servlet.jsp.jstl-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.servlet.jsp.jstl.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.transaction-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.websocket-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.ws.rs-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.xml.registry-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/javax.xml.rpc-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/jboss-logging-3.1.0.GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/jcommon.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/jdom-1.0-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/jfreechart-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/jfreechart.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/json-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/lgpl.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/myfaces-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/openfaces-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/openfaces.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/primefaces-5.2-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/primefaces-5.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/redistribution.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/richfaces-components-api-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/richfaces-components-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/richfaces-components-ui-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/richfaces-components-ui.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/richfaces-core-api-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/richfaces-core-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/richfaces-core-impl-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/richfaces-core-impl.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/lib/sac.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/JSF_war_exploded/Resources/WEB-INF/faces-config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/JSF_war_exploded/Resources/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/JSF_war_exploded/Resources/index.xhtml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/JSF_war_exploded/Resources/welcome.xhtml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/META-INF/ejb-jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/META-INF/persistence.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/CategoryEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/CategoryEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/CategoryEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/CustomerEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/CustomerEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/CustomerEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/OrderEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/OrderEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/OrderEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/OrderitemEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/OrderitemEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/OrderitemEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/ProductEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/ProductEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/ProductEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/ProductimageEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/ProductimageEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/ProductimageEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/StockEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/StockEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/entity/StockEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/com/shop/named/HelloBean.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_ejb_exploded/org/postgresql/Driver.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/META-INF/persistence.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/CategoryEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/CategoryEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/CategoryEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/CustomerEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/CustomerEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/CustomerEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/OrderEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/OrderEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/OrderEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/OrderitemEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/OrderitemEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/OrderitemEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/ProductEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/ProductEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/ProductEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/ProductimageEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/ProductimageEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/ProductimageEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/StockEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/StockEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/entity/StockEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/com/shop/named/HelloBean.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/classes/org/postgresql/Driver.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/faces-config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/commons-codec-1.3-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/commons-collections.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/cssparser-0.9.4-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/cssparser.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/dojo-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/hibernate-commons-annotations-4.0.2.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/hibernate-core-4.2.2.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/javassist-3.15.0-GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/jboss-logging-3.1.0.GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/jcommon.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/jdom-1.0-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/jfreechart-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/jfreechart.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/json-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/lgpl.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/myfaces-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/openfaces-license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/openfaces.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/primefaces-5.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/redistribution.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/richfaces-components-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/richfaces-components-ui.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/richfaces-core-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/richfaces-core-impl.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/lib/sac.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/index.xhtml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/artifacts/WOODY_war_exploded/welcome.xhtml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/META-INF/persistence.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/CategoryEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/CategoryEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/CategoryEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/CustomerEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/CustomerEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/CustomerEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/OrderEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/OrderEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/OrderEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/OrderitemEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/OrderitemEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/OrderitemEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/ProductEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/ProductEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/ProductEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/ProductimageEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/ProductimageEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/ProductimageEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/StockEntity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/StockEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/entity/StockEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/com/shop/named/HelloBean.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/out/production/WOODY/org/postgresql/Driver.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/META-INF/persistence.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/CategoryEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/CategoryEntity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/CategoryEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/CustomerEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/CustomerEntity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/CustomerEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/OrderEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/OrderEntity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/OrderEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/OrderitemEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/OrderitemEntity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/OrderitemEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/ProductEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/ProductEntity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/ProductEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/ProductimageEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/ProductimageEntity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/ProductimageEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/StockEntity.hbm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/StockEntity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/entity/StockEntity.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/com/shop/named/HelloBean.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/org/postgresql/Driver.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/src/package-info.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/web/WEB-INF/faces-config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/web/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/web/index.xhtml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../WOODY/web/welcome.xhtml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../android-maps-utils" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/excludeFromValidation.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/libraries/Jersey_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/libraries/google_play_services.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/libraries/javax_json_processing_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/ant.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/build.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/carparts.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/carparts.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/gen/com/example/carparts/BuildConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/gen/com/example/carparts/Manifest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/gen/com/example/carparts/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/lib/javax.json.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/lib/javax.ws.rs-api-2.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/lib/jersey-client.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/lib/jersey-common.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/lib/jersey-container-servlet-core.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/lib/jersey-container-servlet.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/lib/jersey-server.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/local.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/carparts.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/carparts.unaligned.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/CatalogueActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/FindusActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/LoginActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/MainMenuActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/MyActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/carparts/com/example/carparts/Register.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/android/UnusedStub.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/com/google/android/gms/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/com/google/android/gms/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/com/google/android/gms/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/com/google/android/gms/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/com/google/android/gms/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/com/google/android/gms/R$integer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/com/google/android/gms/R$raw.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/com/google/android/gms/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/com/google/android/gms/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/com/google/android/gms/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/out/production/google-play-services_lib1/com/google/android/gms/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/proguard-project.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/project.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/res/drawable-ldpi/ic_launcher.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/res/layout/catalogue.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/res/layout/findus.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/res/layout/login.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/res/layout/main.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/res/layout/mainmenu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/res/layout/register.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/res/values/strings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/src/com/example/carparts/CatalogueActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/src/com/example/carparts/FindusActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/src/com/example/carparts/LA.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/src/com/example/carparts/LoginActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/src/com/example/carparts/MainMenuActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/src/com/example/carparts/MyActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../carparts/src/com/example/carparts/Register.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/.idea/artifacts/cuppa_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/.idea/libraries/JBoss_Weld_2_0_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/.idea/libraries/Mojarra_2_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/cuppa.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/cdi-api-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/cdi-api-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/cdi-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/javax.faces-2.2.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/jstl-1.1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-api-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-api-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-core-impl-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-core-impl-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-core-impl.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-core-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-core-jsf-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-core-jsf-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-core-jsf.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-core-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-core.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-se-core-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-se-core-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-se-core.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-se-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-se.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-servlet-core-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-servlet-core-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-servlet-core.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-servlet-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-servlet-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-servlet.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-spi-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-spi-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/lib/weld-spi.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/src/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/src/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/src/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/src/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/src/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/src/.idea/src.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/src/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/src/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/web/WEB-INF/beans.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/web/WEB-INF/faces-config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/web/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../cuppa/web/index.xhtml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../fcuk" afterPath="$PROJECT_DIR$/../fcuk" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/ant.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/build.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/gen/com/example/mishmash/BuildConfig.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/gen/com/example/mishmash/Manifest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/gen/com/example/mishmash/R.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/local.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/mishmash.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/out/production/mishmash/com/example/mishmash/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/out/production/mishmash/com/example/mishmash/MyActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/out/production/mishmash/com/example/mishmash/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/out/production/mishmash/com/example/mishmash/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/out/production/mishmash/com/example/mishmash/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/out/production/mishmash/com/example/mishmash/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/out/production/mishmash/com/example/mishmash/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/out/production/mishmash/mishmash.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/out/production/mishmash/mishmash.unaligned.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/proguard-project.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/project.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/res/drawable-ldpi/ic_launcher.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/res/layout/main.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/res/values/strings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../mishmash/src/com/example/mishmash/MyActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/build.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/plugins.sbt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/project/target/config-classes/$73b0f61143c050308500$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/project/target/config-classes/$73b0f61143c050308500$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/project/target/config-classes/$73b0f61143c050308500.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/project/target/config-classes/$73b0f61143c050308500.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$0a4923e01faa6fdf16c8$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$0a4923e01faa6fdf16c8$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$0a4923e01faa6fdf16c8$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$0a4923e01faa6fdf16c8.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$0a4923e01faa6fdf16c8.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$59f597090a2254a6acd8$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$59f597090a2254a6acd8$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$59f597090a2254a6acd8.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$59f597090a2254a6acd8.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$8f5b5d33594ddd3fd516$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$8f5b5d33594ddd3fd516$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$8f5b5d33594ddd3fd516.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$8f5b5d33594ddd3fd516.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$a35d254bcfb56ef47ed9$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$a35d254bcfb56ef47ed9$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$a35d254bcfb56ef47ed9.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$a35d254bcfb56ef47ed9.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$cd1055f416f41e172c7a$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$cd1055f416f41e172c7a$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$cd1055f416f41e172c7a.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$cd1055f416f41e172c7a.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$f4ae7641e339fc372225$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$f4ae7641e339fc372225$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$f4ae7641e339fc372225.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$f4ae7641e339fc372225.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/default/ideaprojects-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/default/ideaprojects-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-sources.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/default-ideaprojects-build-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/$global/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/update/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/compile/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/compileIncremental/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/copyResources/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/artifacts/thisisshit_ejb_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/artifacts/thisisshit_war_exploded.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/libraries/Hibernate_4_2_2_4_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/libraries/Hibernate_Validator_5_0_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/libraries/JBoss_Weld_2_0_3.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/libraries/Mojarra_2_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/libraries/ejb_3_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/libraries/javax_json_processing_1_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/META-INF/ejb-jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/antlr-2.7.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/cdi-api-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/cdi-api-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/cdi-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/classmate-0.8.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/hibernate-commons-annotations-4.0.2.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/hibernate-core-4.2.2.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/hibernate-validator-5.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/hibernate-validator-annotation-processor-5.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/hibernate-validator-cdi-5.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/javassist-3.15.0-GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/javax.ejb-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/javax.el-api-2.2.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/javax.faces-2.2.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/javax.json.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/jboss-logging-3.1.0.GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/jboss-logging-3.1.1.GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/jstl-1.1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/validation-api-1.1.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-api-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-api-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-core-impl-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-core-impl-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-core-impl.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-core-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-core-jsf-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-core-jsf-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-core-jsf.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-core-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-core.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-se-core-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-se-core-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-se-core.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-se-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-se.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-servlet-core-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-servlet-core-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-servlet-core.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-servlet-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-servlet-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-servlet.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-spi-javadoc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-spi-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/lib/weld-spi.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/thisisshit.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/web/WEB-INF/beans.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/web/WEB-INF/faces-config.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/web/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../thisisshit/web/index.xhtml" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BinaryGap.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com.codility.java/BinaryGap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cyclicrotation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com.codility.java/Cyclicrotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryGapTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/codility/test/BinaryGapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/BinaryGap/BinaryGap.java" />
+        <option value="$PROJECT_DIR$/test/BinaryGapTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/BinaryGap/BinaryGap.java" />
+        <option value="$PROJECT_DIR$/test/com/codility/test/BinaryGapTest.java" />
+        <option value="$PROJECT_DIR$/src/com.codility.java/BinaryGap.java" />
+        <option value="$PROJECT_DIR$/src/com.codility.java/Cyclicrotation.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource PackagesPane="true" ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Codility" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Codility" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com.codility.java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codility" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com.codility.java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BinaryGapTest">
+    <configuration name="BinaryGap (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.codility.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.codility.java.BinaryGap" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Codility" />
+      <envs />
+    </configuration>
+    <configuration name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="main.java.BinaryGap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="main.java.BinaryGap.BinaryGap" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Codility" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Codility" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="BinaryGapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.codility.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Codility" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.codility.test" />
+      <option name="MAIN_CLASS_NAME" value="com.codility.test.BinaryGapTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="BinaryGapTest.test_that_32_returns_zero_binary_gap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.codility.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Codility" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.codility.test" />
+      <option name="MAIN_CLASS_NAME" value="com.codility.test.BinaryGapTest" />
+      <option name="METHOD_NAME" value="test_that_32_returns_zero_binary_gap" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BinaryGap" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BinaryGap (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.BinaryGapTest.test_that_32_returns_zero_binary_gap" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.BinaryGapTest" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.BinaryGapTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.BinaryGapTest.test_that_32_returns_zero_binary_gap" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BinaryGap (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BinaryGap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cae8b45e-efcc-42de-a04a-1f01c3818ba5" name="Default" comment="" />
+      <created>1531064387108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531064387108</updated>
+      <workItem from="1531064389702" duration="5769000" />
+      <workItem from="1531556359162" duration="2018000" />
+      <workItem from="1533306340979" duration="525000" />
+      <workItem from="1536995439924" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BinaryGapTest - 2018.07.08 at 17h 37m 42s.xml">
+      <configuration name="BinaryGapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryGapTest - 2018.07.08 at 17h 38m 52s.xml">
+      <configuration name="BinaryGapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryGapTest - 2018.07.08 at 17h 41m 14s.xml">
+      <configuration name="BinaryGapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryGapTest_test_that_32_returns_zero_binary_gap - 2018.07.08 at 17h 36m 48s.xml">
+      <configuration name="BinaryGapTest.test_that_32_returns_zero_binary_gap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryGapTest_test_that_32_returns_zero_binary_gap - 2018.07.08 at 17h 37m 03s.xml">
+      <configuration name="BinaryGapTest.test_that_32_returns_zero_binary_gap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryGapTest_test_that_32_returns_zero_binary_gap - 2018.07.08 at 17h 38m 48s.xml">
+      <configuration name="BinaryGapTest.test_that_32_returns_zero_binary_gap" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8324000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="738" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4983871" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39499193" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com.codility.java/BinaryGap.java</url>
+          <line>8</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com.codility.java/BinaryGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.codility.java/Cyclicrotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/codility/test/BinaryGapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.codility.java/BinaryGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/codility/test/BinaryGapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.codility.java/Cyclicrotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="1704" column="15" lean-forward="false" selection-start-line="1704" selection-start-column="15" selection-end-line="1704" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/codility/test/BinaryGapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.codility.java/Cyclicrotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.codility.java/BinaryGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.postgresql:postgresql:9.4-1201-jdbc41</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Codility</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

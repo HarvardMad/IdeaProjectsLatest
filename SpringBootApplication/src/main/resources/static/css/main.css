@@ -1,0 +1,14 @@
+h1{
+    color:#0000FF;
+}
+
+h2{
+    color:#FF0000;
+}
+
+.jumbotron {
+    background: url('../images/knf.jpg') no-repeat center center;
+    height: 150px;
+    color: white;
+    text-shadow: #444 0 1px 1px;
+}
