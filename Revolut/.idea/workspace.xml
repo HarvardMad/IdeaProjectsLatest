@@ -2,26 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fef7160-15eb-45dc-94df-678f933a4488" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_19_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_auth_common_3_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_bridge_common_3_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_core_3_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_web_3_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/Routes/RouteManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/TransferHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/config/Runner.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__com_univocity_univocity_parsers_1_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__pl_pragmatists_JUnitParams_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/DuplicateElements.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/FindIntersectionOfTwoArrays.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/MoneyWithExceptionHandling.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/MovingZerosToEndOfAnArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/SecondlargetInArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/ex/XL.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/com/java/array/stringreverse/StringReverse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/resources/Book1.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/resources/Book1.xlsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/resources/names.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/src/main/resources/test.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/test/array/ArrayTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/test/exceptions/TestMoney.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/test/parameterisedtests/TestMoney.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/test/parameterisedtests/TestMoneyParameterised.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Arrays/test/stringreverse/StringReverseTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_couchbase_client_core_io_1_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_couchbase_client_java_client_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_englishtown_vertx_vertx_guice_2_0_0_RC1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_3_5_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_scala_logging_scala_logging_2_11_3_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentracing_opentracing_api_0_31_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_rx_java2_3_5_3_CR1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_2_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/ApplicationCosntants.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/ContactDetails.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/Customer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/config/GuiceModule.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/exception/InvalidParamsPassedIntoMoneyTransfer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/exception/ServerFailedToStartException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/exception/TransferProcessException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/BaseVerticle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/EventBusReceiverVerticle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/EventBusSenderVerticle.java" />
       <change beforePath="$PROJECT_DIR$/../Coursera_Algorithms/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Coursera_Algorithms/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/../Coursera_Algorithms/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Coursera_Algorithms/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../Coursera_Algorithms/src/main/java/com/barclays/OddOccurenceArray.java" afterPath="$PROJECT_DIR$/../Coursera_Algorithms/src/main/java/com/barclays/OddOccurenceArray.java" />
@@ -52,7 +95,109 @@
       <change beforePath="$PROJECT_DIR$/../GSP/web/WEB-INF/faces-config.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../GSP/web/WEB-INF/web.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../GSP/web/index.xhtml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../HBS/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HBS/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../HBS/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/.idea/hydra.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_12_2_5_0_RC2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/.idea/libraries/Maven__com_typesafe_config_1_3_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_12_0_8_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/.idea/libraries/Maven__org_scala_lang_scala_library_2_12_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/HBS.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/akka-actor_2.11-2.3.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/akka-actor_2.11.0-RC4-2.3.0-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/akka-actor_2.11.0-RC4-2.3.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/akka-actor_2.12.0-M5-2.4.8-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/akka-actor_2.12.0-M5-2.4.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/akka-http-core-experimental_2.11-0.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/akka-parsing-experimental_2.11-0.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/akka-persistence-experimental_2.11-2.3.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/akka-stream-experimental_2.11-0.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/config-1.2.0-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/config-1.2.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/config-1.2.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/config-1.3.0-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/config-1.3.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/guava-12.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/hawtjni-runtime-1.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/jsr305-1.3.9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/leveldb-0.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/leveldb-api-0.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/leveldbjni-1.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/leveldbjni-all-1.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/leveldbjni-linux32-1.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/leveldbjni-linux64-1.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/leveldbjni-osx-1.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/leveldbjni-win32-1.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/leveldbjni-win64-1.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/protobuf-java-2.5.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/reactive-streams-spi-0.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/scala-java8-compat_2.12.0-M5-0.8.0-RC3-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/scala-java8-compat_2.12.0-M5-0.8.0-RC3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/scala-library-2.11.0-RC4-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/scala-library-2.11.0-RC4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/scala-library-2.11.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/scala-library-2.12.0-M5-sources.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/scala-library-2.12.0-M5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/lib/scala-reflect-2.11.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/Booking$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/Booking.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/BookingManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/BookingManagerConsole$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/BookingManagerConsole$delayedInit$body.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/BookingManagerConsole.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/BookingManagerImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/RoomUnavailableException$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/RoomUnavailableException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/AddBooking$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/AddBooking.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/AddBookingResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/AvailableRooms$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/AvailableRooms.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/AvailableRoomsResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/BookingMade$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/BookingMade.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/ErrorResponse$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/ErrorResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/GetAvailableRooms$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/GetAvailableRooms.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/HBSActor$$anonfun$receive$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/HBSActor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/HBSActorRunner$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/HBSActorRunner$delayedInit$body.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/HBSActorRunner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/HotelRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/HotelResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/IsRoomAvailable$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/IsRoomAvailable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/IsRoomAvailableResponse.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/NoRoomAvailable$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/NoRoomAvailable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/RoomAvaiable$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/out/production/HBS/com/hotel/booking/akka/RoomAvaiable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/Booking.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/BookingManager.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/BookingManagerConsole.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/BookingManagerImpl.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/RoomUnavailableException.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/AddBooking.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/AddBookingResponse.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/AvailableRooms.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/AvailableRoomsResponse.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/BookingMade.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/ErrorOccured.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/GetAvailableRooms.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/HBSActor.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/HBSActorRunner.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/HotelRequest.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/HotelResponse.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/IsRoomAvailable.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/IsRoomAvailableResponse.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/NoRoomAvailable.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HBS/src/main/java/com/hotel/booking/akka/RoomAvaiable.scala" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../HBS/target/classes/com/hotel/booking/Booking$.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../HBS/target/classes/com/hotel/booking/Booking.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../HBS/target/classes/com/hotel/booking/BookingManager.class" afterPath="" />
@@ -112,13 +257,21 @@
       <change beforePath="$PROJECT_DIR$/../HibernateFirst/src/org/compsci/entity/UserDetails.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../HibernateFirst/src/org/hibernate/launch/session/HibernateTest.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../HibernateFirst/src/org/hibernate/launch/session/HibernateUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/Booking.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/Booking.scala" />
-      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManager.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManager.scala" />
-      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManagerConsole.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManagerConsole.scala" />
-      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManagerImpl.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManagerImpl.scala" />
-      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/RoomUnavailableException.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/RoomUnavailableException.scala" />
-      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/Test.scala" afterPath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/Test.scala" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/.idea/hydra.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_5_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/.idea/libraries/scala_sdk_2_12_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/.idea/modules/hotelbookingsystem-build.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/.idea/scala_compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/Booking.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManager.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManagerConsole.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/BookingManagerImpl.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/RoomUnavailableException.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../HotelBookingSystem/src/main/scala/Test.scala" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../Interview" afterPath="$PROJECT_DIR$/../Interview" />
+      <change beforePath="$PROJECT_DIR$/../MSC_Project_Shop" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../Markbook/.idea/ant.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../Markbook/.idea/compiler.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../Markbook/.idea/copyright/profiles_settings.xml" afterPath="" />
@@ -160,21 +313,26 @@
       <change beforePath="$PROJECT_DIR$/../Markbook/src/sample/Controller.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../Markbook/src/sample/Main.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../Markbook/src/sample/sample.fxml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_undertow_undertow_servlet_1_4_22_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_2_spec_1_0_0_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_servlet_jboss_servlet_api_3_1_spec_1_0_0_Final.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_all_5_15_3.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Revolut.iml" afterPath="$PROJECT_DIR$/Revolut.iml" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid62977.log" afterPath="$PROJECT_DIR$/hs_err_pid62977.log" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid71573.log" afterPath="$PROJECT_DIR$/hs_err_pid71573.log" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/MoneyTransferResponse.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/MoneyTransferResponse.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/Routes/RouteManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/Routes/RouteManager.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferHandler.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/config/AppServer.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/config/AppServer.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/CurrentAccount.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/CurrentAccount.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/MoneyTransferResponse.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/MoneyTransferResponse.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/UserRoutes.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/UserRoutes.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/TransferHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/config/AppServer.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/AppServerVerticle.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/config/Runner.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/config/Runner.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/Routes/RouteManager.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/Routes/RouteManager.class" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/TransferHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/TransferHandler.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/config/AppServer.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/config/AppServer.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/RevolutTests.class" afterPath="$PROJECT_DIR$/target/test-classes/RevolutTests.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/handlers/AllRequestHandlers.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/handlers/AllRequestHandlers.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/handlers/TransferHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/config/AppServer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/config/Runner.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/config/Runner.class" />
       <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/.idea/compiler.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/.idea/libraries/Spring_4_3_9_RELEASE.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/.idea/misc.xml" afterPath="" />
@@ -199,6 +357,14 @@
       <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-oxm-4.3.9.RELEASE.jar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-test-4.3.9.RELEASE.jar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../SpiringCoreDemo/lib/spring-tx-4.3.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../TestScala/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../TestScala/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../TestScala/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../TestScala/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../TestScala/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../TestScala/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../TestScala/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../TestScala/TestScala.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../WEIndian" afterPath="$PROJECT_DIR$/../WEIndian" />
       <change beforePath="$PROJECT_DIR$/../WOODY/.idea/.name" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../WOODY/.idea/artifacts/JSF_war_exploded.xml" afterPath="" />
@@ -555,7 +721,7 @@
       <change beforePath="$PROJECT_DIR$/../cuppa/web/WEB-INF/faces-config.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../cuppa/web/WEB-INF/web.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../cuppa/web/index.xhtml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../fcuk" afterPath="$PROJECT_DIR$/../fcuk" />
+      <change beforePath="$PROJECT_DIR$/../fcuk" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../mishmash/.idea/.name" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../mishmash/.idea/compiler.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../mishmash/.idea/copyright/profiles_settings.xml" afterPath="" />
@@ -667,6 +833,67 @@
       <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/.history" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/default/ideaprojects$sbt_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/default/ideaprojects$sbt_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/default/ideaprojects$sources_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/default/ideaprojects$sources_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/default/ideaprojects$sources_javadoc_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/default/ideaprojects$sources_javadoc_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/default/ideaprojects_2.11/1.0/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/default/ideaprojects_2.11/1.0/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sbt_2.11-default.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_2.11-default.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-sources.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects$sources_javadoc_2.11-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-sources.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/default-ideaprojects_2.11-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/update/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/.name" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/artifacts/thisisshit_ejb_exploded.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../thisisshit/.idea/artifacts/thisisshit_war_exploded.xml" afterPath="" />
@@ -751,7 +978,7 @@
       <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../untitled/.idea/uiDesigner.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../untitled/Revolut.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../untitled/pom.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/com/revolut/accounts/dao/AccountsDAO.java" afterPath="" />
@@ -775,33 +1002,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CurrentAccount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java">
+      <file leaf-file-name="AppServerVerticle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/AppServerVerticle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AllRequestHandlers.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/config/AppServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="44" column="52" lean-forward="false" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
+            <state relative-caret-position="322">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -810,34 +1015,89 @@
       <file leaf-file-name="Runner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/config/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Function.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <file leaf-file-name="RouteManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/Routes/RouteManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+            <state relative-caret-position="150">
+              <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MoneyTransferResponse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/MoneyTransferResponse.java">
+      <file leaf-file-name="CustomerVerticle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state relative-caret-position="360">
+              <caret line="25" column="57" lean-forward="true" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
               <folding>
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactDetails.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/ContactDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+              <folding>
+                <element signature="e#1285#1286#0" expanded="true" />
+                <element signature="e#1327#1328#0" expanded="true" />
+                <element signature="e#1681#1682#0" expanded="true" />
+                <element signature="e#1720#1721#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GuiceModule.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/config/GuiceModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="43" column="28" lean-forward="false" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+              <folding>
+                <element signature="e#1058#1059#0" expanded="true" />
+                <element signature="e#1100#1101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllRequestHandlers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -847,9 +1107,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>accept</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -869,23 +1135,41 @@
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/CurrentAccountRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/api/UserRequestsController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/RouteHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/api/UserRequests.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/config/BodyHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/dao/AccountsDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/UserRoutes.java" />
         <option value="$PROJECT_DIR$/src/test/java/RevolutTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferHandler.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/TransferHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferDetails.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/Routes/RouteManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/revolut/config/AppServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllHandlers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/MoneyTransferResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/revolut/config/Runner.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/utils/ServerFailedToStartException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/api/UserRequests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/utils/InvalidParamsPassedIntoMoneyTransfer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/exception/InvalidParamsPassedIntoMoneyTransfer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/exception/TransferProcessException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/UserRoutes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/config/RevolutMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/config/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/config/AppServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/verticles/AppServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/ApplicationCosntants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/verticles/BaseVertice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/verticles/BaseVerticle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/verticles/EventBusSenderVerticle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/verticles/EventBusReceiverVerticle.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/ContactDetails.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/Routes/RouteManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/config/GuiceModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/verticles/AppServerVerticle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/Customer.java" />
       </list>
     </option>
   </component>
@@ -902,10 +1186,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="738" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1331" />
+    <option name="y" value="-95" />
+    <option name="width" value="1683" />
+    <option name="height" value="939" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -926,7 +1211,9 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -937,6 +1224,11 @@
             <path>
               <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
               <item name="Revolut" type="462c0819:PsiDirectoryNode" />
+              <item name=".vertx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Revolut" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -978,17 +1270,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="revolut" type="462c0819:PsiDirectoryNode" />
               <item name="accounts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Revolut" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="revolut" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
@@ -1037,53 +1318,70 @@
               <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
               <item name="Revolut" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="revolut" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
               <item name="Revolut" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="revolut" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Revolut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="revolut" type="462c0819:PsiDirectoryNode" />
+              <item name="verticles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: com.google.inject:guice:4.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.inject:guice:4.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guice-4.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.inject:guice:4.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guice-4.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.inject:guice:4.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guice-4.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.inject:guice:4.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guice-4.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="inject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
@@ -1128,17 +1426,7 @@
               <item name="io" type="462c0819:PsiDirectoryNode" />
               <item name="vertx" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.vertx:vertx-core:3.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="vertx-core-3.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="vertx" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="eventbus" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Revolut" type="b2602c69:ProjectViewProjectNode" />
@@ -1200,8 +1488,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1229,15 +1515,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Runner">
-    <configuration name="AppServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.RevolutMainApp">
+    <configuration name="AppServerVerticle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.revolut.config.*" />
+          <option name="PATTERN" value="com.revolut.verticles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.revolut.config.AppServer" />
+      <option name="MAIN_CLASS_NAME" value="com.revolut.verticles.AppServerVerticle" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1251,7 +1537,7 @@
     </configuration>
     <configuration name="RevolutMain" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.revolut.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.revolut.config" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1265,14 +1551,33 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RevolutMainApp" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.revolut.verticles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.revolut.config.Runner" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Revolut" />
+      <envs />
+    </configuration>
+    <configuration name="RevolutMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.revolut.config.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.revolut.config.Runner" />
+      <option name="MAIN_CLASS_NAME" value="com.revolut.config.RevolutMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1341,18 +1646,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.RevolutMain" />
-      <item index="1" class="java.lang.String" itemvalue="Application.AppServer" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RevolutTests.happy_path" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.RevolutTests" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Runner" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AppServerVerticle" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RevolutMainApp" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RevolutTests.happy_path" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RevolutTests" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Runner" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AppServer" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.RevolutTests.happy_path" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RevolutTests" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RevolutMain" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RevolutMainApp" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RevolutMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AppServerVerticle" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RevolutTests.happy_path" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.RevolutTests" />
       </list>
     </recent_temporary>
   </component>
@@ -1379,7 +1684,11 @@
       <workItem from="1537077567997" duration="65000" />
       <workItem from="1537077711712" duration="217000" />
       <workItem from="1537078771279" duration="48738000" />
-      <workItem from="1538629788592" duration="28184000" />
+      <workItem from="1538629788592" duration="37002000" />
+      <workItem from="1543055722064" duration="6343000" />
+      <workItem from="1544969940378" duration="30360000" />
+      <workItem from="1549607189345" duration="589000" />
+      <workItem from="1550181749864" duration="11446000" />
     </task>
     <servers />
   </component>
@@ -1395,40 +1704,40 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92855000" />
+    <option name="totallyTimeSpent" value="150411000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="738" extended-state="0" />
+    <frame x="1280" y="-95" width="1920" height="1018" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32333332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29193547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26517573" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17419355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17851374" sideWeight="0.4935484" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2257721" sideWeight="0.4935484" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42777777" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13327949" sideWeight="0.5064516" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34032258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3077778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1441,77 +1750,56 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/io/undertow/undertow-core/1.4.22.Final/undertow-core-1.4.22.Final.jar!/io/undertow/Undertow.class</url>
-          <line>203</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java</url>
+          <line>29</line>
           <properties />
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/api/UserRequests.java</url>
-          <line>8</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java</url>
+          <line>26</line>
           <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferHandler.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/RevolutTests.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.4/vertx-core-3.5.4.jar!/io/vertx/core/Handler.class</url>
-          <properties />
-          <option name="timeStamp" value="56" />
+          <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java</url>
-          <line>36</line>
+          <line>75</line>
           <properties />
-          <option name="timeStamp" value="63" />
+          <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java</url>
-          <line>25</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/config/GuiceModule.java</url>
+          <line>44</line>
           <properties />
-          <option name="timeStamp" value="64" />
+          <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java</url>
-          <line>94</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/AppServerVerticle.java</url>
+          <line>47</line>
           <properties />
-          <option name="timeStamp" value="65" />
+          <option name="timeStamp" value="123" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java</url>
-          <line>98</line>
-          <properties />
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java</url>
-          <line>87</line>
-          <properties />
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="70" />
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java</url>
+          <line>12</line>
+          <properties field="customerService" class="com.revolut.verticles.CustomerVerticle" />
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="71" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="124" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>RouteManager.establishRoutes(vertx)::accept)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>trfRequest</expression-string>
         <language-id>JAVA</language-id>
@@ -1550,206 +1838,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/dao/AccountsDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="e#524#525#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#722#723#0" expanded="false" />
-            <element signature="e#780#781#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/config/AppServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="98" column="1" lean-forward="false" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="e#524#525#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#722#723#0" expanded="false" />
-            <element signature="e#780#781#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/config/AppServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/undertow/undertow-core/1.0.0.Beta12/undertow-core-1.0.0.Beta12.jar!/io/undertow/Undertow.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="90" column="26" lean-forward="false" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/Main.java" />
-    <entry file="file://$PROJECT_DIR$/Revolut.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.5/jackson-databind-2.9.5.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="1131" column="39" lean-forward="false" selection-start-line="1131" selection-start-column="32" selection-end-line="1131" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/undertow/undertow-core/1.4.22.Final/undertow-core-1.4.22.Final.jar!/io/undertow/server/HttpServerExchange.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="612" column="53" lean-forward="false" selection-start-line="612" selection-start-column="36" selection-end-line="612" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/RouteHandler.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/io/undertow/undertow-core/1.4.22.Final/undertow-core-1.4.22.Final.jar!/io/undertow/Undertow.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/config/BodyHandler.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/io/undertow/undertow-core/1.4.22.Final/undertow-core-1.4.22.Final.jar!/io/undertow/server/protocol/http/HttpReadListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="231" column="0" lean-forward="false" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/undertow/undertow-core/1.4.22.Final/undertow-core-1.4.22.Final.jar!/io/undertow/util/AttachmentKey.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="130" column="0" lean-forward="true" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/undertow/undertow-core/1.4.22.Final/undertow-core-1.4.22.Final.jar!/io/undertow/util/AbstractAttachable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/undertow/undertow-core/1.4.22.Final/undertow-core-1.4.22.Final.jar!/io/undertow/server/Connectors.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="330" column="0" lean-forward="false" selection-start-line="330" selection-start-column="0" selection-end-line="330" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2056">
-          <caret line="64" column="24" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.5/jackson-databind-2.9.5.jar!/com/fasterxml/jackson/databind/deser/impl/MethodProperty.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="84" column="112" lean-forward="false" selection-start-line="84" selection-start-column="112" selection-end-line="84" selection-end-column="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/api/UserRequests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/undertow/undertow-core/1.4.22.Final/undertow-core-1.4.22.Final.jar!/io/undertow/server/RoutingHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="41" column="14" lean-forward="false" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/UserRoutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/undertow/undertow-core/1.4.22.Final/undertow-core-1.4.22.Final.jar!/io/undertow/io/AsyncReceiverImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-243">
@@ -1764,24 +1852,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RevolutTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.4/vertx-core-3.5.4.jar!/io/vertx/core/http/HttpServer.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="49" column="50" lean-forward="false" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="50" />
-          <folding>
-            <marker date="1539319447266" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1539319447266" expanded="false" signature="142:464" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1795,27 +1869,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.4/vertx-core-3.5.4-sources.jar!/io/vertx/core/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="63" column="30" lean-forward="false" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.4/vertx-core-3.5.4-sources.jar!/io/vertx/core/http/HttpServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-106">
           <caret line="149" column="0" lean-forward="true" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1823,85 +1880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="159" column="16" lean-forward="false" selection-start-line="159" selection-start-column="16" selection-end-line="159" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.4/vertx-web-3.5.4.jar!/io/vertx/ext/web/impl/RoutingContextImplBase.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-          <folding>
-            <marker date="1539425582774" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1539425582774" expanded="false" signature="145:488" ph="..." />
-            <marker date="1539425582774" expanded="true" signature="1065:1354" ph="{...}" />
-            <marker date="1539425582774" expanded="false" signature="1384:1391" ph=" { " />
-            <marker date="1539425582774" expanded="false" signature="1414:1418" ph=" }" />
-            <marker date="1539425582774" expanded="false" signature="1449:1456" ph=" { " />
-            <marker date="1539425582774" expanded="false" signature="1481:1485" ph=" }" />
-            <marker date="1539425582774" expanded="false" signature="1533:1540" ph=" { " />
-            <marker date="1539425582774" expanded="false" signature="1592:1596" ph=" }" />
-            <marker date="1539425582774" expanded="false" signature="1651:1658" ph=" { " />
-            <marker date="1539425582774" expanded="false" signature="1717:1721" ph=" }" />
-            <marker date="1539425582774" expanded="true" signature="1750:1842" ph="{...}" />
-            <marker date="1539425582774" expanded="true" signature="1878:4885" ph="{...}" />
-            <marker date="1539425582774" expanded="true" signature="4975:5579" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.4/vertx-web-3.5.4.jar!/io/vertx/ext/web/RoutingContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1369">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/Routes/RouteManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="63" lean-forward="false" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/TransferHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/MoneyTransferResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-          <folding>
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1909,7 +1887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1917,56 +1894,343 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="205" column="0" lean-forward="false" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.4/vertx-core-3.5.4-sources.jar!/io/vertx/core/net/impl/VertxHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/dao/AccountsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SpringBootApplication/src/main/java/com/java/mvc/shop/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/api/UserRequests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/config/Runner.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/RevolutTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/exception/ServerFailedToStartException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#155#156#0" expanded="false" />
+            <element signature="e#179#180#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/TransferHandler.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/inject/guice/4.0/guice-4.0.jar!/com/google/inject/spi/Elements.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="246" column="40" lean-forward="false" selection-start-line="246" selection-start-column="40" selection-end-line="246" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/config/RevolutMain.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.4/vertx-core-3.5.4-sources.jar!/io/vertx/core/Verticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/inject/guice/4.0/guice-4.0.jar!/com/google/inject/Injector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.4/vertx-core-3.5.4-sources.jar!/io/vertx/core/AbstractVerticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="129" column="3" lean-forward="true" selection-start-line="128" selection-start-column="1" selection-end-line="129" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid62977.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2894">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/exception/InvalidParamsPassedIntoMoneyTransfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/exception/TransferProcessException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.4/vertx-core-3.5.4-sources.jar!/io/vertx/core/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/BaseVerticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/EventBusSenderVerticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.4/vertx-web-3.5.4.jar!/io/vertx/ext/web/RoutingContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1595">
+          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#3367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/ApplicationCosntants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="26" lean-forward="false" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/EventBusReceiverVerticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/TransferHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="359">
+          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/dao/AccountsDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/MoneyTransferResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="352">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.4/vertx-web-3.5.4.jar!/io/vertx/ext/web/impl/RoutingContextImplBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        <state relative-caret-position="233">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/config/AppServer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/UserRoutes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="44" column="52" lean-forward="false" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
+        <state relative-caret-position="105">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/inject/guice/4.0/guice-4.0.jar!/com/google/inject/AbstractModule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.4/vertx-core-3.5.4-sources.jar!/io/vertx/core/eventbus/EventBus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="126" column="25" lean-forward="false" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/config/GuiceModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="43" column="28" lean-forward="false" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        <state relative-caret-position="334">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.4/vertx-core-3.5.4-sources.jar!/io/vertx/core/Vertx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="409" column="7" lean-forward="false" selection-start-line="409" selection-start-column="7" selection-end-line="409" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/AppServerVerticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/config/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/Routes/RouteManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/ContactDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="57" lean-forward="true" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+          <folding>
+            <element signature="e#1285#1286#0" expanded="true" />
+            <element signature="e#1327#1328#0" expanded="true" />
+            <element signature="e#1681#1682#0" expanded="true" />
+            <element signature="e#1720#1721#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,14 +1,17 @@
 package com.revolut.config;
 
+import com.revolut.exception.ServerFailedToStartException;
+import com.revolut.verticles.AppServerVerticle;
+
 public class Runner {
 
   public static void main(String[] args) {
-    AppServer as = new AppServer();
+    AppServerVerticle as = new AppServerVerticle();
     try {
       as.start();
 
     } catch (Exception e) {
-      e.printStackTrace();
+      throw new ServerFailedToStartException(e.getMessage());
     }
   }
 

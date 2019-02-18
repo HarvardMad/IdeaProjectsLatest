@@ -1,13 +1,13 @@
 package com.revolut.accounts.datamodel;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.revolut.accounts.dao.AccountsDAO;
+import com.revolut.exception.InvalidParamsPassedIntoMoneyTransfer;
+import com.revolut.exception.TransferProcessException;
 import io.undertow.server.HttpHandler;
 import io.undertow.server.HttpServerExchange;
 import io.undertow.util.Headers;
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 
 public class TransferHandler implements HttpHandler {
 
@@ -16,9 +16,6 @@ public class TransferHandler implements HttpHandler {
 
   @Override
   public void handleRequest(HttpServerExchange httpServerExchange) {
-
-    accountsDAO.createNewAccount("Adam", 400.00, "12345");
-    accountsDAO.createNewAccount("Zac", 250.23, "54321");
 
     httpServerExchange.getRequestReceiver().receiveFullBytes((exchange, data) -> {
       try {
@@ -34,7 +31,8 @@ public class TransferHandler implements HttpHandler {
         try {
           CurrentAccount.startMoneyTransferProcess(fromAcc, toAcc, transferDetails.transferAmount);
         } catch (IllegalArgumentException ilg) {
-          ilg.printStackTrace();
+          throw new InvalidParamsPassedIntoMoneyTransfer(ilg.getMessage());
+
         }
 
         MoneyTransferResponse moneyTransferResponse = new MoneyTransferResponse();
@@ -47,12 +45,10 @@ public class TransferHandler implements HttpHandler {
         httpServerExchange.getResponseSender().send(jsonResult);
 
 
-      } catch (UnsupportedEncodingException e) {
-        e.printStackTrace();
-      } catch (JsonProcessingException e) {
-        e.printStackTrace();
-      } catch (IOException e) {
-        e.printStackTrace();
+      } catch ( IOException e) {
+        throw new TransferProcessException(e.getMessage());
+
+
       }
 
         });

@@ -6,7 +6,7 @@ import io.undertow.util.StatusCodes;
 
 
 public class UserRoutes {
-  //private static final TransferHandler userRequests = new UserRequests();
+
   private static final AccountsDAO accountsDAO = new AccountsDAO();
 
   public static void transfer(HttpServerExchange exchange) {
