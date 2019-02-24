@@ -72,8 +72,7 @@ public class AllRequestHandlers {
 
   public  Handler<RoutingContext> newAccountHandher = (request) -> {
 
-    requestAsJson = request.getBodyAsJson();
-    request.vertx().eventBus().send("customerVerticle",requestAsJson);
+    request.vertx().eventBus().send("customerVerticle",request.getBodyAsJson());
   };
 
   /**

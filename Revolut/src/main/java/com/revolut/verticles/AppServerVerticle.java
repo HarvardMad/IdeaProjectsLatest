@@ -46,6 +46,7 @@ public class AppServerVerticle extends AbstractVerticle{
     Guice.createInjector(module).injectMembers(this);
     setUpServerWithLogging(vertx, module);
     vertx.deployVerticle(new CustomerVerticle());
+    vertx.deployVerticle(new CouchBaseVerticle());
 
   }
 

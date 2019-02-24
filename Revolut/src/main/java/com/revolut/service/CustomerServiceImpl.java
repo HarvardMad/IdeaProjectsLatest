@@ -1,9 +1,11 @@
 package com.revolut.service;
 
 import com.google.inject.Singleton;
+import com.revolut.accounts.datamodel.Address;
 import com.revolut.accounts.datamodel.ContactDetails;
 import com.revolut.accounts.datamodel.Customer;
 import io.vertx.core.json.JsonObject;
+import java.util.UUID;
 
 /**
  * It is a form of the Builder pattern [Gamma95, p. 97].
@@ -18,13 +20,27 @@ import io.vertx.core.json.JsonObject;
 @Singleton
 public class CustomerServiceImpl implements CustomerService {
 
-
   public Customer customerBuilder(JsonObject newCustomerObject) {
 
-    ContactDetails contactDetails = new ContactDetails(String.valueOf(newCustomerObject.getString("email")),
-        String.valueOf(newCustomerObject.getString("mobile_phone")),
-        String.valueOf(newCustomerObject.getString("home_number")),
-        String.valueOf(newCustomerObject.getString("work_number")));
+    JsonObject jsonObject = persistInCouchBase(newCustomerObject);
+    return persistCustomerInPostGres(newCustomerObject);
+  }
+
+  private Customer persistCustomerInPostGres(JsonObject newCustomerObject){
+
+    JsonObject contactDetailsJson = newCustomerObject.getJsonObject("contact_details");
+    ContactDetails contactDetails = new ContactDetails(String.valueOf(contactDetailsJson.getString("email")),
+        String.valueOf(contactDetailsJson.getString("mobile_phone")),
+        String.valueOf(contactDetailsJson.getString("home_number")),
+        String.valueOf(contactDetailsJson.getString("work_number")));
+
+    JsonObject addressJson = newCustomerObject.getJsonObject("address");
+    Address address = new Address();
+    address.setCounty( String.valueOf(addressJson.getString("county")));
+    address.setHouseNumberOrName(String.valueOf(addressJson.getString("house_no_or_name")));
+    address.setStreet(String.valueOf(addressJson.getString("street")));
+    address.setTown(String.valueOf(addressJson.getString("town")));
+    address.setPostCode(String.valueOf(addressJson.getString("post_code")));
 
     return new Customer.CustomerBuilder()
         .title(String.valueOf(newCustomerObject.getString("title")))
@@ -36,12 +52,16 @@ public class CustomerServiceImpl implements CustomerService {
         .maritalStatus(String.valueOf(newCustomerObject.getString("marital_status")))
         .nationality(String.valueOf(newCustomerObject.getString("nationality")))
         .countryOfBirth(String.valueOf(newCustomerObject.getString("birth_country")))
-        .houseNumberOrName(String.valueOf(newCustomerObject.getString("house_no_or_name")))
-        .street(String.valueOf(newCustomerObject.getString("street")))
-        .town(String.valueOf(newCustomerObject.getString("town")))
-        .postCode(String.valueOf(newCustomerObject.getString("post_code")))
         .residentialStatus(String.valueOf(newCustomerObject.getString("residential_status")))
         .contactDetails(contactDetails)
+        .address(address)
         .build();
+  }
+
+  private JsonObject persistInCouchBase(JsonObject newCustomerObject){
+    /* couchbase persistence */
+    String couchbaseCustomerDocumentId  = UUID.randomUUID().toString();
+    newCustomerObject.put("customer_id",couchbaseCustomerDocumentId);
+    return newCustomerObject;
   }
 }

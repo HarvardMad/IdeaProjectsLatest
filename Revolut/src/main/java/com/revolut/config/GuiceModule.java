@@ -48,4 +48,8 @@ public class GuiceModule extends AbstractModule {
   protected CustomerService getCustomerSrvice(){
     return new CustomerServiceImpl();
   }
+
+
+
+
 }

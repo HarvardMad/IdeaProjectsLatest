@@ -1,6 +1,5 @@
 package com.revolut.verticles;
 
-import com.google.inject.Inject;
 import com.revolut.accounts.datamodel.Customer;
 import com.revolut.service.CustomerService;
 import com.revolut.service.CustomerServiceImpl;
@@ -16,9 +15,7 @@ public class CustomerVerticle extends AbstractVerticle {
   private CustomerService customerService;
   private MessageConsumer<JsonObject> consumer;
 
-  @Inject
-  public CustomerVerticle() {
-  }
+
 
 
   @Override
@@ -38,6 +35,7 @@ public class CustomerVerticle extends AbstractVerticle {
       }, resultHandler -> {
         if (resultHandler.succeeded()) {
           System.out.println(((Customer) resultHandler.result()).getFirstName());
+          vertx.eventBus().send("couchbaseVertilce",(JsonObject) message.body());
         } else {
           System.out.println("persisting customer failed");
         }
