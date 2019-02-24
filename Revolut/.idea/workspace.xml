@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fef7160-15eb-45dc-94df-678f933a4488" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/docker/Dockerfile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/Address.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/CouchBaseVerticle.java" />
       <change beforePath="$PROJECT_DIR$/../Interview" afterPath="$PROJECT_DIR$/../Interview" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/Customer.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/datamodel/Customer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/config/GuiceModule.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/config/GuiceModule.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/service/CustomerServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/AppServerVerticle.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/AppServerVerticle.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java" afterPath="$PROJECT_DIR$/src/main/java/com/revolut/verticles/CustomerVerticle.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/Customer$CustomerBuilder.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/Customer$CustomerBuilder.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/Customer.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/Customer.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/TransferHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/datamodel/TransferHandler.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/accounts/handlers/AllRequestHandlers.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/accounts/handlers/AllRequestHandlers.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/service/CustomerServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/service/CustomerServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/verticles/AppServerVerticle.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/verticles/AppServerVerticle.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revolut/verticles/CustomerVerticle.class" afterPath="$PROJECT_DIR$/target/classes/com/revolut/verticles/CustomerVerticle.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/docker/Dockerfile" afterPath="$PROJECT_DIR$/src/main/docker/Dockerfile" />
       <change beforePath="$PROJECT_DIR$/../WEIndian" afterPath="$PROJECT_DIR$/../WEIndian" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -83,8 +67,8 @@
       <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/docker/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -633,7 +617,7 @@
       <workItem from="1550181749864" duration="12965000" />
       <workItem from="1550455607106" duration="17932000" />
       <workItem from="1550901591288" duration="346000" />
-      <workItem from="1550908135923" duration="3115000" />
+      <workItem from="1550908135923" duration="3446000" />
     </task>
     <servers />
   </component>
@@ -649,7 +633,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173323000" />
+    <option name="totallyTimeSpent" value="173654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="738" extended-state="0" />
@@ -664,7 +648,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38387096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7774193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.57096773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21243942" sideWeight="0.4935484" order="0" side_tool="false" content_ui="tabs" />
@@ -1157,8 +1141,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/docker/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
