@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e389a099-337c-4bb3-8e3c-7f024d773de1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Revolut/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/config/DockerStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/verticles/ChangeRoundUpVerticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarlingAPP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarlingAPP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarlingAPP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarlingAPP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarlingAPP/StarlingAPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarlingAPP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/proto/bank.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/bank.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankGrpc$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankGrpc$BankBaseDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankGrpc$BankBlockingStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankGrpc$BankFileDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankGrpc$BankFutureStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankGrpc$BankImplBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankGrpc$BankMethodDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankGrpc$BankStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankGrpc$MethodHandlers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankGrpc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankOuterClass$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/BankOuterClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/Transfer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/Transfer$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/Transfer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/TransferOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/TransferResponse$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/TransferResponse$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/TransferResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/protobuff/stuff/TransferResponseOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/grpc-java/com/java/protobuff/stuff/BankGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/java/protobuff/stuff/BankOuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/java/protobuff/stuff/Transfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/java/protobuff/stuff/TransferOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/java/protobuff/stuff/TransferResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/com/java/protobuff/stuff/TransferResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/grpc-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/annotations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/auth.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/backend.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/billing.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/config_change.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/consumer.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/control.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/distribution.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/documentation.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/endpoint.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/experimental/authorization_config.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/experimental/experimental.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/http.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/httpbody.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/label.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/log.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/logging.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/metric.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/monitored_resource.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/monitoring.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/quota.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/source_info.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/system_parameter.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/api/usage.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/cloud/audit/audit_log.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/logging/type/http_request.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/logging/type/log_severity.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/longrunning/operations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/rpc/code.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/rpc/error_details.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/rpc/status.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/type/color.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/type/date.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/type/dayofweek.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/type/latlng.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/type/money.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/type/postal_address.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/1bd459cdf5473d3b55134adbaa4e78e9/google/type/timeofday.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/any.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/api.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/compiler/plugin.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/descriptor.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/duration.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/empty.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/field_mask.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/source_context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/struct.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/timestamp.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/type.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/7c3fcd631d24c5c6a608f03cce44e1e8/google/protobuf/wrappers.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-plugins/protoc-3.7.1-osx-x86_64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-plugins/protoc-gen-grpc-java-1.20.0-osx-x86_64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview" beforeDir="false" afterPath="$PROJECT_DIR$/../Interview" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/src/main/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/accounts/Routes/RouteManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/accounts/Routes/RouteManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/accounts/datamodel/TransferHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/accounts/datamodel/TransferHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/accounts/handlers/AllRequestHandlers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/config/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/config/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/exception/InvalidParamsPassedIntoMoneyTransfer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/exception/ServerFailedToStartException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/exception/TransferProcessException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/service/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/verticles/AppServerVerticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/verticles/AppServerVerticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/verticles/CouchBaseVerticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/src/main/java/com/revolut/verticles/CouchBaseVerticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/Leaf-Vertx.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/accounts/Routes/RouteManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/accounts/Routes/RouteManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/accounts/datamodel/CurrentAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/accounts/datamodel/CurrentAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/accounts/datamodel/TransferHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/accounts/datamodel/TransferHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/accounts/handlers/AllRequestHandlers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/accounts/handlers/AllRequestHandlers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/config/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/config/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/exception/InvalidParamsPassedIntoMoneyTransfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/exception/ServerFailedToStartException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/exception/TransferProcessException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/service/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/service/CustomerServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/verticles/AppServerVerticle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/verticles/AppServerVerticle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/verticles/CouchBaseVerticle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/verticles/CouchBaseVerticle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/verticles/CustomerVerticle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/classes/com/revolut/verticles/CustomerVerticle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revolut/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Revolut/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEIndian" beforeDir="false" afterPath="$PROJECT_DIR$/../WEIndian" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/proto/bank.proto">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/target/generated-sources/protobuf/grpc-java/com/java/protobuff/stuff/BankGrpc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="90" column="24" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/proto/bank.proto" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grpc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grpc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grpc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grpc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grpc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grpc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="protobuf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grpc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grpc" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="google-java-format.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e389a099-337c-4bb3-8e3c-7f024d773de1" name="Default Changelist" comment="" />
+      <created>1556932687104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556932687104</updated>
+      <workItem from="1556932689715" duration="2169000" />
+      <workItem from="1556935526515" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2182000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="738" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/proto/bank.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/protobuf/grpc-java/com/java/protobuff/stuff/BankGrpc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="90" column="24" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
