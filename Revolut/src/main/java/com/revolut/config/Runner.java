@@ -1,6 +1,5 @@
 package com.revolut.config;
 
-import com.revolut.exception.ServerFailedToStartException;
 import com.revolut.verticles.AppServerVerticle;
 
 public class Runner {
@@ -11,7 +10,7 @@ public class Runner {
       as.start();
 
     } catch (Exception e) {
-      throw new ServerFailedToStartException(e.getMessage());
+      //throw new ServerFailedToStartException(e.getMessage());
     }
   }
 

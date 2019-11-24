@@ -9,6 +9,7 @@ com/revolut/accounts/datamodel/TransferRequest.class
 com/revolut/verticles/AppServerVerticle.class
 com/revolut/accounts/datamodel/Address.class
 com/revolut/accounts/Routes/RouteManager.class
+com/revolut/config/DockerStarter.class
 com/revolut/exception/InvalidParamsPassedIntoMoneyTransfer.class
 com/revolut/accounts/dao/AccountsDAO.class
 com/revolut/ApplicationCosntants.class

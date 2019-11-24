@@ -1,17 +1,22 @@
 package com.revolut.accounts.handlers;
 
+import com.google.inject.Inject;
 import com.revolut.accounts.dao.AccountsDAO;
 import com.revolut.accounts.datamodel.CurrentAccount;
 import com.revolut.accounts.datamodel.MoneyTransferResponse;
 import io.vertx.core.Handler;
 import io.vertx.core.json.JsonObject;
 import io.vertx.ext.web.RoutingContext;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.function.Function;
 import java.util.function.Supplier;
+import java.util.logging.Logger;
+
 
 /**
  * The router is the cornerstone of Vert.x Web.
@@ -23,13 +28,15 @@ import java.util.function.Supplier;
  * If you understand these 3 concepts, you have understood everything in Vert.x Web.
  */
 public class AllRequestHandlers {
+  @Inject
+  Logger logger;
   private static JsonObject requestAsJson=null;
   private static AccountsDAO accountsDAO = initialiseData();
 
   public  Handler<RoutingContext> transferHandher = (request) -> {
-
+   //logger.info("inside transfer handler");
     requestAsJson = request.getBodyAsJson();
-    request.vertx().eventBus().send("customer",requestAsJson);
+    //request.vertx().eventBus().send("customer",requestAsJson);
     String sendersAccount = String.valueOf(requestAsJson.getString("senders_account_number"));
     String recepientsAccount = String.valueOf(requestAsJson.getString("recepients_account_number"));
     final double trfAmount =  Double.parseDouble(requestAsJson.getString("transfer_amount"));
@@ -76,6 +83,29 @@ public class AllRequestHandlers {
   };
 
   /**
+   * Round up calculation
+   */
+  protected Function<JsonObject,BigDecimal> roundUpChange=(transaction)->{
+
+    BigDecimal transctionValue = new BigDecimal(transaction.getString("transaction_amount")).setScale(3);
+    BigDecimal transaction_rounded_up = transctionValue.setScale(0, RoundingMode.UP).setScale(2);
+    BigDecimal roundedUpDifference = transaction_rounded_up.subtract(transctionValue).setScale(2);
+    return roundedUpDifference;
+  };
+
+
+  public  Handler<RoutingContext> roundUpHandler = (RoutingContext request) -> {
+    requestAsJson = request.getBodyAsJson();
+   BigDecimal change =roundUpChange.apply(requestAsJson);
+   JsonObject result = new JsonObject().put("change_value",change.toString());
+
+    request
+        .response()
+        .putHeader("Content-Type","application/json")
+        .end(result.encodePrettily());
+  };
+
+  /**
    * Type in the Name of the person
    * or company (Up to 18 characters. Acceptable special characters are '/', '&' and '-'.)
    Type in their bank account number
@@ -106,6 +136,5 @@ public class AllRequestHandlers {
 
     return accountsDAO;
   }
-
 
 }

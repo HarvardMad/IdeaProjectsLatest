@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-ejb" name="GSP:ejb exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/GSP_ejb_exploded</output-path>
-    <root id="root">
-      <element id="javaee-facet-resources" facet="GSP/ejb/EJB" />
-      <element id="module-output" name="GSP" />
-    </root>
-  </artifact>
-</component>

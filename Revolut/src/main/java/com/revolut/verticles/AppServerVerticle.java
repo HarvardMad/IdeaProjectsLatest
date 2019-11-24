@@ -25,15 +25,14 @@ import java.util.logging.Logger;
 public class AppServerVerticle extends AbstractVerticle{
 
   public static final String LOCALHOST = "localhost";
-  public static final int PORT = 8080;
+  public static final String DOCKER_CONTAINER_HOST ="172.17.0.2";
+  public static final int PORT = 8085;
   public static final boolean LOG_ACTIVITY = true;
 
   Vertx vertx = Vertx.vertx();
 
   @Inject
   private  RouteManager routeManager;
-
-
 
   @Inject
   Logger logger;
@@ -47,6 +46,7 @@ public class AppServerVerticle extends AbstractVerticle{
     setUpServerWithLogging(vertx, module);
     vertx.deployVerticle(new CustomerVerticle());
     vertx.deployVerticle(new CouchBaseVerticle());
+    vertx.deployVerticle(new ChangeRoundUpVerticle());
 
   }
 
@@ -54,10 +54,11 @@ public class AppServerVerticle extends AbstractVerticle{
 
     //For debugging purposes, network activity can be logged.
     HttpServerOptions options = new HttpServerOptions()
+        .setSsl(false)
         .setLogActivity(LOG_ACTIVITY)
         .setHost(LOCALHOST)
         .setPort(PORT);
-    logger.info("setting up the server ");
+    logger.info("setting up the server on port " + PORT);
     return vertx.createHttpServer(options)
         .requestHandler(routeManager.establishRoutes(vertx, module)::accept)
         .listen(listenerHandler);

@@ -29,6 +29,7 @@ public  class RouteManager {
     router.post("/transfer").handler(allRequestHandlers.transferHandher);
     router.post("/customer").handler(allRequestHandlers.newAccountHandher);
     router.post("/payee").handler(allRequestHandlers.newPayeeHandher);
+    router.post("/roundup").handler(allRequestHandlers.roundUpHandler);
     logger.info("router established");
    return router;
   }

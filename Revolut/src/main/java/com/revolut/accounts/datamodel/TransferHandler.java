@@ -2,8 +2,6 @@ package com.revolut.accounts.datamodel;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.revolut.accounts.dao.AccountsDAO;
-import com.revolut.exception.InvalidParamsPassedIntoMoneyTransfer;
-import com.revolut.exception.TransferProcessException;
 import io.undertow.server.HttpHandler;
 import io.undertow.server.HttpServerExchange;
 import io.undertow.util.Headers;
@@ -31,7 +29,7 @@ public class TransferHandler implements HttpHandler {
         try {
           CurrentAccount.startMoneyTransferProcess(fromAcc, toAcc, transferDetails.transferAmount);
         } catch (IllegalArgumentException ilg) {
-          throw new InvalidParamsPassedIntoMoneyTransfer(ilg.getMessage());
+         // throw new InvalidParamsPassedIntoMoneyTransfer(ilg.getMessage());
 
         }
 
@@ -46,7 +44,7 @@ public class TransferHandler implements HttpHandler {
 
 
       } catch ( IOException e) {
-        throw new TransferProcessException(e.getMessage());
+        //throw new TransferProcessException(e.getMessage());
 
 
       }

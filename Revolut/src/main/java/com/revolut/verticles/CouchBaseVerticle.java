@@ -10,29 +10,33 @@ import io.vertx.core.Context;
 import io.vertx.core.Vertx;
 import java.util.UUID;
 
+/**
+ * docker inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' hardcore_boyd
+ */
+
 public class CouchBaseVerticle extends AbstractVerticle {
 
-  public static final String LOCALHOST = "localhost";
+  public static final String COUCHBASEHOST = "172.17.0.2";
 
   Bucket leafBucket;
 
   @Override
   public void init(Vertx vertx, Context context) {
     super.init(vertx, context);
-    leafBucket = bucket();
+    //leafBucket = bucket();
   }
 
   private Cluster cluster() {
-    return CouchbaseCluster.create(LOCALHOST);
+    return CouchbaseCluster.create(COUCHBASEHOST);
   }
 
 
   private Bucket bucket() {
-    return cluster().openBucket("LeafBucket", "LeafUser");
+    return cluster().openBucket("LeafBucket", "leafUser");
   }
 
   public void start() {
-    System.out.println("couchbase deployed " + leafBucket);
+    //System.out.println("couchbase deployed " + leafBucket);
     vertx.eventBus().consumer("couchbaseVertilce", message -> {
 
       vertx.executeBlocking(fut -> {
@@ -40,7 +44,7 @@ public class CouchBaseVerticle extends AbstractVerticle {
         String couchbaseCustomerDocumentId = UUID.randomUUID().toString();
         JsonObject jsonObject = JsonObject.fromJson(message.body().toString());
         JsonDocument doc = JsonDocument.create(couchbaseCustomerDocumentId, jsonObject);
-        leafBucket.upsert(doc);
+        //leafBucket.upsert(doc);
       }, resultHandler -> {
         if (resultHandler.succeeded()) {
           System.out.println((resultHandler.result()).toString());

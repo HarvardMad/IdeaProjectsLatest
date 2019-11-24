@@ -11,6 +11,7 @@
 /Users/LalinPethiyagoda/IdeaProjects/Revolut/src/main/java/com/revolut/accounts/datamodel/CurrentAccount.java
 /Users/LalinPethiyagoda/IdeaProjects/Revolut/src/main/java/com/revolut/service/CustomerService.java
 /Users/LalinPethiyagoda/IdeaProjects/Revolut/src/main/java/com/revolut/config/GuiceModule.java
+/Users/LalinPethiyagoda/IdeaProjects/Revolut/src/main/java/com/revolut/config/DockerStarter.java
 /Users/LalinPethiyagoda/IdeaProjects/Revolut/src/main/java/com/revolut/verticles/EventBusReceiverVerticle.java
 /Users/LalinPethiyagoda/IdeaProjects/Revolut/src/main/java/com/revolut/accounts/datamodel/TransferRequest.java
 /Users/LalinPethiyagoda/IdeaProjects/Revolut/src/main/java/com/revolut/verticles/CustomerVerticle.java

@@ -15,7 +15,7 @@ public final class CurrentAccount {
   // Total amount in bank account:
   // No need for volatile here as lock operation ensures happens-before
   // relationships that are essential to visibility
-  private double balanceAmount;
+  private volatile double balanceAmount;
 
   private final Lock lock = new ReentrantLock();
   private final Random number = new Random(123L);
@@ -94,7 +94,7 @@ public final class CurrentAccount {
     try {
       message = sendersAccount.transferMoneyIntoAnotherAccount(receiversAccount, transferAmount);
     } catch (InterruptedException e) {
-      e.printStackTrace();
+      e.printStackTrace(); // change to logging later
     }
     return message;
   }

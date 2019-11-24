@@ -56,6 +56,7 @@ public class CustomerServiceImpl implements CustomerService {
         .contactDetails(contactDetails)
         .address(address)
         .build();
+
   }
 
   private JsonObject persistInCouchBase(JsonObject newCustomerObject){
